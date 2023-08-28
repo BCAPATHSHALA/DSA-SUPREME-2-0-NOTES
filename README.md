@@ -21,3 +21,26 @@ CLASS HOMEWORK: 01
 
 
 ```
+
+#### WEEK 01 TOPIC: Write your first C++ program
+
+```bash
+
+CLASS NOTES: 02
+	1. Why do we need programming language
+	2. How compiler and interpreter work
+    3. Where to code
+    4. Lets write down the first code
+    5. Print Love Babbar
+    6. Variables and data types
+    7. How data is stored
+    8. Signed and unsigned data
+    9. Operators in C++
+
+CLASS HOMEWORK: 02
+	1. 32 bits VS 64 bit architecture
+    2. Typecasting: implicit and explicit
+    3. Number system: binary to decimal
+
+
+```
