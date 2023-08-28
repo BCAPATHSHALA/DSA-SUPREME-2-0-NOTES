@@ -1,6 +1,6 @@
 # DSA SUPREME 2.0
 
-This course belongs to [The code help](https://www.thecodehelp.in) and follow us [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/) & [Lakshay Kumar](https://www.linkedin.com/in/lakshayk12/).
+This course belongs to [The code help](https://www.thecodehelp.in) and follows both our favorite mentors [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/) & [Lakshay Kumar](https://www.linkedin.com/in/lakshayk12/).
 
 ### PDF NOTES AND CPP PROGRAMS
 
