@@ -64,7 +64,7 @@ CLASS HOMEWORK: 03
     	6. Find the factorial of a number
     	7. Check if number is prime or not
     	8. Check valid triangle or not
-    	8. Print max of three numbers
+    	9. Print max of three numbers
 
 
 ```
