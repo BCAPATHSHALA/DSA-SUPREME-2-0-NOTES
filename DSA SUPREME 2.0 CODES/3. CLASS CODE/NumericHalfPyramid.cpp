@@ -1,3 +1,4 @@
+// Pattern 6: Numeric Half Pyramid pattern
 #include<iostream>
 using namespace std;
 

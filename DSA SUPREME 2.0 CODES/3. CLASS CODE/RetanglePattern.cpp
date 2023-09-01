@@ -1,3 +1,4 @@
+// Pattern 2: Rectangle pattern
 #include<iostream>
 using namespace std;
 

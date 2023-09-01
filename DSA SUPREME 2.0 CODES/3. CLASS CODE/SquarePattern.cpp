@@ -1,3 +1,4 @@
+// Pattern 1: Square pattern
 #include<iostream>
 using namespace std;
 

@@ -52,7 +52,13 @@ CLASS HOMEWORK: 02
 CLASS NOTES: 03
 	1. Conditional statements
 	2. Loop statements
-    	3. Pattern problems
+    	Pattern 1: Square pattern
+    	Pattern 2: Rectangle pattern
+    	Pattern 3: Hollow Rectangle pattern
+    	Pattern 4: Half Pyramid pattern
+    	Pattern 5: Inverted Half Pyramid pattern
+    	Pattern 6: Numeric Half Pyramid pattern
+    	Pattern 7: Inverted Numeric Half Pyramid pattern
 
 CLASS HOMEWORK: 03
 	0. All flowcharts are converted into CPP programs
@@ -65,6 +71,24 @@ CLASS HOMEWORK: 03
     	7. Check if number is prime or not
     	8. Check valid triangle or not
     	9. Print max of three numbers
+
+
+```
+
+#### WEEK 02 TOPIC: Pattern continues
+
+```bash
+
+CLASS NOTES: 04
+	Pattern 08: Full Pyramid
+	Pattern 09: Inverted Full Pyramid
+    	Pattern 10: Dimond Pattern
+    	Pattern 11: Hollow Full Pyramid
+    	Pattern 12: Inverted Hollow Full Pyramid
+    	Pattern 13: Hollow Diamond pattern
+    	Pattern 14: Flipped Solid Diamond pattern
+
+CLASS HOMEWORK: 04
 
 
 ```

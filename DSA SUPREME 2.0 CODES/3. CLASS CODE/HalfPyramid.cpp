@@ -1,3 +1,4 @@
+// Pattern 4: Half Pyramid pattern
 #include<iostream>
 using namespace std;
 

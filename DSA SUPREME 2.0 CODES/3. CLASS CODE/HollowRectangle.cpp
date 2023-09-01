@@ -1,3 +1,4 @@
+// Pattern 3: Hollow Rectangle pattern
 #include<iostream>
 using namespace std;
 

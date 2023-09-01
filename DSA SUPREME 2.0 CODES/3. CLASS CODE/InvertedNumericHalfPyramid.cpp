@@ -1,3 +1,4 @@
+// Pattern 7: Inverted Numeric Half Pyramid pattern
 #include<iostream>
 using namespace std;
 
