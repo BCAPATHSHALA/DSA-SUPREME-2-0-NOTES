@@ -87,8 +87,19 @@ CLASS NOTES: 04
     	Pattern 12: Inverted Hollow Full Pyramid
     	Pattern 13: Hollow Diamond pattern
     	Pattern 14: Flipped Solid Diamond pattern
+    	Pattern 15: Fancy pattern 1
+    	Pattern 17: Inverted Hollow Half Pyramid
+    	Pattern 19: Fancy pattern 4
 
 CLASS HOMEWORK: 04
+	Pattern 16: Fancy pattern 2
+	Pattern 18: Fancy pattern 3
+    	Pattern 20:
+    	Pattern 21:
+    	Pattern 22:
+    	Pattern 23:
+    	Pattern 24:
+    	Pattern 25:
 
 
 ```
