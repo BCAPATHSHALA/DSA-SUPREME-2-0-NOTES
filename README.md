@@ -98,7 +98,7 @@ CLASS HOMEWORK: 04
     	Pattern 21: Numeric Palindrome Equilateral Palindrome
     	Pattern 22: Fancy pattern 5
     	Pattern 23: Solid Half Diamond
-    	Pattern 24: Floyed Triangle
+    	Pattern 24: Floyd Triangle
     	Pattern 25: Butterfly Pattern
 
 
