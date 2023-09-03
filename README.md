@@ -93,13 +93,13 @@ CLASS NOTES: 04
 
 CLASS HOMEWORK: 04
 	Pattern 16: Fancy pattern 2
-	Pattern 18: Fancy pattern 3
-    	Pattern 20:
-    	Pattern 21:
-    	Pattern 22:
-    	Pattern 23:
-    	Pattern 24:
-    	Pattern 25:
+	Pattern 18: Fancy pattern 3 -> Numerical Hollow Half Pyramid
+    	Pattern 20: Numeric Hollow Inverted Half Pyramid
+    	Pattern 21:	Numeric Palindrome Equilateral Palindrome
+    	Pattern 22:	Fancy pattern 5
+    	Pattern 23: Solid Half Diamond
+    	Pattern 24: Floyed Triangle
+    	Pattern 25:	Butterfly Pattern
 
 
 ```
