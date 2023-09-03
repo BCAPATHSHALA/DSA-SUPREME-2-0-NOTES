@@ -1,4 +1,4 @@
-// Pattern 21: Numeric Palindrome Equilateral Palindrome
+// Pattern 21: Numeric Palindrome Equilateral Pyramid
 #include<iostream>
 using namespace std;
 
