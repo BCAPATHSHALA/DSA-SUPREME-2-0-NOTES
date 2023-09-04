@@ -45,7 +45,7 @@ CLASS HOMEWORK: 02
 
 ```
 
-#### WEEK 02 TOPIC: Conditionals and loops
+#### WEEK 01 TOPIC: Conditionals and loops
 
 ```bash
 
