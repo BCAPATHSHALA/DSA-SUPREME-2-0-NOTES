@@ -103,3 +103,22 @@ CLASS HOMEWORK: 04
 
 
 ```
+
+#### WEEK 02 TOPIC: Bitwise operators and loops
+
+```bash
+
+CLASS NOTES: 05
+	1. Bitwise operators
+	2. Left and right shift operators
+    	3. Pre/post increment and decrement operators
+    	4. Break and continue keyword
+    	5. Variable scoping
+    	6. Operator precedence table
+
+CLASS HOMEWORK: 05
+	1. All homework programs
+	2. Why global variables are bad practice
+
+
+```
