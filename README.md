@@ -132,11 +132,11 @@ CLASS NOTES: 06
     	3. Write a function to print sum of 3 numbers
     	4. Write a function to return sum of 3 numbers
     	5. Find maximum of three numbers
-    	6. Counting from 1 to n
+    	6. Counting from 1 to N
 	7. Check prime or not prime number
 	8. Check number is even or odd
 	9. Sum of all numbers upto 1 to N
-	10. Sum of all even numbers upto 1 to n
+	10. Sum of all even numbers upto 1 to N
 
 CLASS HOMEWORK: 06
 	1. Function to find area of circle
