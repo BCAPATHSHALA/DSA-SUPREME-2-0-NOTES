@@ -120,5 +120,34 @@ CLASS HOMEWORK: 05
 	1. All homework programs
 	2. Why global variables are bad practice
 
+```
+
+#### WEEK 02 TOPIC: Functions
+
+```bash
+
+CLASS NOTES: 06
+	1. What is function
+	2. Function call stack
+    	3. Write a function to print sum of 3 numbers
+    	4. Write a function to return sum of 3 numbers
+    	5. Find maximum of three numbers
+    	6. Counting from 1 to n
+		7. Check prime or not prime number
+		8. Check number is even or odd
+		9. Sum of all numbers upto 1 to N
+		10. Sum of all even numbers upto 1 to n
+
+CLASS HOMEWORK: 06
+	1. Function to find area of circle
+	2. Function to find factorial of a number
+    	3. Print all prime numbers from 1 to N
+    	4. Print all digits of an integer
+    	5. Creating a number using digits
+    	6. Print binary representation of a decimal number
+		7. Convert KM into Miles
+		8. Convert farenheit to celcius
+		9. Count all set bits of a number
+		10. Check even/odd using bitwise operator
 
 ```
