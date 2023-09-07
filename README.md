@@ -19,7 +19,7 @@ In this repository, you will get each and every class's notes in the form of a P
 
 | NO. | DATE         | CLASS TOPIC           | CLASS NOTES | HW NOTES | QUIZES | DEBUG EXCERCISES |
 | :-- | :----------- | :-------------------- | :---------- | :------- | :----- | :--------------- |
-| _1_ | `21-08-2023` | **Orientation Class** | 🔴          | 🔴       | 🔴     | 🔴               |
+| 1 | `21-08-2023` | **Orientation Class** | 🔴          | 🔴       | 🔴     | 🔴               |
 
 #### WEEK 01 TOPIC: Introduction to programming
 
