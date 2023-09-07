@@ -1,4 +1,4 @@
-# DSA SUPREME 2.0
+![CONSOLEBUSTERS](https://res.cloudinary.com/dkbtmzdtt/image/upload/v1694111744/MYYYYYY/DES_eugygl.png)
 
 This course belongs to [The code help](https://www.thecodehelp.in) and follows both our favorite mentors [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/) & [Lakshay Kumar](https://www.linkedin.com/in/lakshayk12/).
 
