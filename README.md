@@ -151,3 +151,33 @@ CLASS HOMEWORK: 06
 	10. Check even/odd using bitwise operator
 
 ```
+
+#### WEEK 03 TOPIC: Arrays - Level 1
+
+```bash
+
+CLASS NOTES: 07
+	1. What is array
+	2. Why do we need of array
+    	3. Create an array
+    	4. Symbol table
+    	5. Address of operator and size of method
+    	6. Array initialization
+	7. Bad practice with array size
+	8. Array indexing
+	9. Access elements of array
+	10. Taking input in an array
+	11. Meaning of arr[i] (FORMULA)
+	12. Updating array with example
+	13. Linear search in an array
+	14. Array and function
+	15. Programs
+	    a.) Count 0's and 1's in an array
+	    b.) Minimum and maximum number in an array 
+	    c.) Reverse an array (Two pointer approach)
+	    d.) Extreme print an array
+
+CLASS HOMEWORK: 07
+	1. No homework
+
+```
