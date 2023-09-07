@@ -8,17 +8,12 @@ In this repository, you will get each and every class's notes in the form of a P
 
 ### Table Instruction Colors
 
-| Status              | Color |
-| ------------------- | ----- |
-| Pending             | 🟡    |
-| Progress            | 🔵    |
-| Done                | 🟢    |
-| No HW               | 🔴    |
-| No Quize            | 🔴    |
-| No Debug Excercise  | 🔴    |
-| Yes HW              | 🟢    |
-| Yes Quize           | 🟢    |
-| Yes Debug Excercise | 🟢    |
+| Status        | Color |
+| ------------- | ----- |
+| Pending       | 🟡    |
+| Progress      | 🔵    |
+| Done          | 🟢    |
+| Not available | 🔴    |
 
 ## COURSE STRUCTURE
 
