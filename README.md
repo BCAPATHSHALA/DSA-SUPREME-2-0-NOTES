@@ -4,7 +4,7 @@
 
 [Download Awesome Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
 
-### Course Mentors
+### COURSE MENTORS LOVE BABBAR AND LAKSHAY KUMAR BHAIYA
 
 This course belongs to [The code help](https://www.thecodehelp.in) and follows both our favorite mentors [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/) & [Lakshay Kumar](https://www.linkedin.com/in/lakshayk12/).
 
