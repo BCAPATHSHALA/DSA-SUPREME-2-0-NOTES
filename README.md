@@ -2,7 +2,7 @@
 
 # Download Epic Notes
 
-[Download Awesome Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
+[📩Download Awesome Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
 
 ### COURSE MENTORS LOVE BABBAR AND LAKSHAY KUMAR BHAIYA
 
