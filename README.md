@@ -8,18 +8,18 @@ In this repository, you will get each and every class's notes in the form of a P
 
 ### Table Instruction Colors
 
-| Status        | Color |
+<!-- | Status        | Color |
 | ------------- | ----- |
 | Pending       | 🟡    |
 | Progress      | 🔵    |
 | Done          | 🟢    |
-| Not available | 🔴    |
+| Not available | 🔴    | -->
 
 ## COURSE STRUCTURE
 
-| NO. | DATE         | CLASS TOPIC           | CLASS NOTES | HW NOTES | QUIZES | DEBUG EXCERCISES |
+<!-- | NO. | DATE         | CLASS TOPIC           | CLASS NOTES | HW NOTES | QUIZES | DEBUG EXCERCISES |
 | :-- | :----------- | :-------------------- | :---------- | :------- | :----- | :--------------- |
-| 1 | `21-08-2023` | **Orientation Class** | 🔴          | 🔴       | 🔴     | 🔴               |
+| 1 | `21-08-2023` | **Orientation Class** | 🔴          | 🔴       | 🔴     | 🔴               | -->
 
 #### WEEK 01 TOPIC: Introduction to programming
 
@@ -192,5 +192,26 @@ CLASS NOTES: 07
 
 CLASS HOMEWORK: 07
 	1. No homework
+
+```
+
+#### WEEK 03 TOPIC: Arrays - Level 2
+
+```bash
+
+CLASS NOTES: 08
+	1. Function pass by value
+	2. Function pass by reference
+    	3. Array and function (pass by reference)
+    	4. Program 01: Find unique element
+    	5. Program 02: Print all pairs
+    	6. Program 03: Print triplets
+	7. Program 04: Sort 0's and 1's
+	8. Program 05: Shift array's element by one (Right to left)
+	9. Program 06: Shift array's element by two (Right to left)
+	10. Introduction to time and space complexity
+
+CLASS HOMEWORK: 08
+	1. HW 01: Shift array's element by one (Left to right)
 
 ```
