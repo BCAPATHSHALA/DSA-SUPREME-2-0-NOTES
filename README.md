@@ -209,13 +209,13 @@ CLASS NOTES: 08
     	3. Array and function (pass by reference)
     	4. Program 01: Find unique element
     	5. Program 02: Print all pairs
-    	6. Program 03: Print triplets
+    	6. Program 03: Print all triplets
 	7. Program 04: Sort 0's and 1's
-	8. Program 05: Shift array's element by one (Right to left)
-	9. Program 06: Shift array's element by two (Right to left)
-	10. Introduction to time and space complexity
+	8. Introduction to time and space complexity
 
 CLASS HOMEWORK: 08
-	1. HW 01: Shift array's element by one (Left to right)
+	1. Program 05: Shift array's element by one (Right to left)
+	2. Program 06: Shift array's element by two (Right to left)
+	3. HW 01: Shift array's element by one (Left to right)
 
 ```
