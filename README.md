@@ -219,3 +219,30 @@ CLASS HOMEWORK: 08
 	3. HW 01: Shift array's element by one (Left to right)
 
 ```
+
+#### WEEK 03 TOPIC: Arrays - Level 3
+
+```bash
+
+CLASS NOTES: 09
+	1. 2D-Array
+	2. Create 2D-Array
+    	3. Initialize 2D-Array
+    	4. Access 2D-Array's elements
+    	5. How 2D-Array stored in memory
+    	6. Print 2D-Array row wise
+	7. Print 2D-Array column wise
+	8. Taking input from user in 2D-Array
+	9. Linear Search in 2D-Array
+	10. Maximum and Minimum in 2D-Array
+		11. Print row wise and column wise sum of 2D-Array
+		12. Sum of diagonal elements of a matrix
+		13. Transpose of a matrix
+		14. Vector Notes
+	15. Jagged Array
+
+CLASS HOMEWORK: 09
+	1. Column wise sum of a 2D-Array
+	2. Sum of diagonal elements
+
+```
