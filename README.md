@@ -236,13 +236,13 @@ CLASS NOTES: 09
 	9. Linear Search in 2D-Array
 	10. Maximum and Minimum in 2D-Array
 	11. Print row wise and column wise sum of 2D-Array
-	12. Sum of diagonal elements of a matrix
+	12. Sum of principal diagonal elements of a matrix
 	13. Transpose of a matrix
 	14. Vector Notes
 	15. Jagged Array
 
 CLASS HOMEWORK: 09
-	1. Column wise sum of a 2D-Array
-	2. Sum of diagonal elements
+	1. Column wise sum of a 2D-Array 
+	2. Sum of secondary diagonal elements
 
 ```
