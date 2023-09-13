@@ -242,7 +242,35 @@ CLASS NOTES: 09
 	15. Jagged Array
 
 CLASS HOMEWORK: 09
-	1. Column wise sum of a 2D-Array 
+	1. Column wise sum of a 2D-Array
 	2. Sum of secondary diagonal elements
+
+```
+
+#### WEEK 03 TOPIC: Arrays - Extra Class
+
+```bash
+
+CLASS NOTES: 10
+	1. Moving All Negative Number to the Left Side of an Array
+	2. Sort Colors (Leetcode-75)
+    	3. Rotate Array (Leetcode-189)
+    	4. Missing Number (Leetcode-268)
+    	5. Row with maximum ones (VVIimp Leetcode-2643)
+    	6. Rotate Image by 90 degree (VVImp Leetcode-48)
+
+CLASS HOMEWORK: 10
+	0. Re-arrange array elements (Leetcode-2149)
+	1. Key Pair
+	2. Find Pivot Index
+	3. Remove Duplicates From Sorted Array
+	4. Maximum Average Subarray 1
+	5. Find Duplicate Number (Leetcode-287)
+	6. Missing Element From An Array With Duplicates
+	7. Find First Repeating Element (GFG)
+	8. Common Element in 3 Sorted Array (GFG)
+	9. Wave Print A Matrix
+	10. Spiral Print A Matrix (Leetcode-54)
+	11. Factorial of A Large Number (GFG)
 
 ```
