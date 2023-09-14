@@ -267,8 +267,8 @@ CLASS HOMEWORK: 10
 	4. Maximum Average Subarray 1
 	5. Find Duplicate Number (Leetcode-287)
 	6. Missing Element From An Array With Duplicates
-	7. Find First Repeating Element (GFG)
-	8. Common Element in 3 Sorted Array (GFG)
+	7. Find First Repeating Element [GFG](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1)
+	8. Common Element in 3 Sorted Array [GFG](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
 	9. Wave Print A Matrix
 	10. Spiral Print A Matrix (Leetcode-54)
 	11. Factorial of A Large Number (GFG)
@@ -288,7 +288,7 @@ CLASS NOTES: 11
     	6. Find last occurrence of a number in sorted array
 		7. Find total occurrence of a number in sorted array
 		8. Find missing element in sorted array (GFG)
-		9. Peack element in a mountain array (Leetcode-852)
+		9. Peak element/index in a mountain array (Leetcode-852)
 
 CLASS HOMEWORK: 11
 	1. Find pivot element (Leetcode-724)
