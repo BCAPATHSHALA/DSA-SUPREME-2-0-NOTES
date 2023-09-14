@@ -286,9 +286,9 @@ CLASS NOTES: 11
     	4. Rules of binary search
     	5. Find first occurrence of a number in sorted array
     	6. Find last occurrence of a number in sorted array
-		7. Find total occurrence of a number in sorted array
-		8. Find missing element in sorted array (GFG)
-		9. Peak element/index in a mountain array (Leetcode-852)
+	7. Find total occurrence of a number in sorted array
+	8. Find missing element in sorted array (GFG)
+	9. Peak element/index in a mountain array (Leetcode-852)
 
 CLASS HOMEWORK: 11
 	1. Find pivot element (Leetcode-724)
