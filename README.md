@@ -262,7 +262,7 @@ CLASS NOTES: 10
 CLASS HOMEWORK: 10
 	0. Re-arrange array elements (Leetcode-2149)
 	1. Key Pair
-	2. Find Pivot Index
+	2. Find Pivot Index (Leetcode-724)
 	3. Remove Duplicates From Sorted Array
 	4. Maximum Average Subarray 1
 	5. Find Duplicate Number (Leetcode-287)
@@ -272,5 +272,25 @@ CLASS HOMEWORK: 10
 	9. Wave Print A Matrix
 	10. Spiral Print A Matrix (Leetcode-54)
 	11. Factorial of A Large Number (GFG)
+
+```
+
+#### WEEK 04 TOPIC: Searching and Sorting - Level 1
+
+```bash
+
+CLASS NOTES: 11
+	1. Linear search
+	2. Binary search (MONOTONIC ARRAY)
+    	3. Time complexity of binary search
+    	4. Rules of binary search
+    	5. Find first occurrence of a number in sorted array
+    	6. Find last occurrence of a number in sorted array
+		7. Find total occurrence of a number in sorted array
+		8. Find missing element in sorted array (GFG)
+		9. Peack element in a mountain array (Leetcode-852)
+
+CLASS HOMEWORK: 11
+	1. Find pivot element (Leetcode-724)
 
 ```
