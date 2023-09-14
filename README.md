@@ -267,8 +267,8 @@ CLASS HOMEWORK: 10
 	4. Maximum Average Subarray 1
 	5. Find Duplicate Number (Leetcode-287)
 	6. Missing Element From An Array With Duplicates
-	7. Find First Repeating Element [GFG](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1)
-	8. Common Element in 3 Sorted Array [GFG](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
+	7. Find First Repeating Element (GFG)
+	8. Common Element in 3 Sorted Array (GFG)
 	9. Wave Print A Matrix
 	10. Spiral Print A Matrix (Leetcode-54)
 	11. Factorial of A Large Number (GFG)
