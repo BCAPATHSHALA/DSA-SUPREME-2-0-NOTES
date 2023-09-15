@@ -25,7 +25,10 @@ In this repository, you will get each and every class's notes in the form of a P
 | :-- | :----------- | :-------------------- | :---------- | :------- | :----- | :--------------- |
 | 1 | `21-08-2023` | **Orientation Class** | 🔴          | 🔴       | 🔴     | 🔴               | -->
 
-#### WEEK 01 TOPIC: Introduction to programming
+
+
+<details>
+  <summary>WEEK 01 TOPIC: Introduction to programming</summary>
 
 ```bash
 
@@ -38,8 +41,10 @@ CLASS HOMEWORK: 01
 
 
 ```
+</details>
 
-#### WEEK 01 TOPIC: Write your first C++ program
+<details>
+  <summary>WEEK 01 TOPIC: Write your first C++ program</summary>
 
 ```bash
 
@@ -61,8 +66,10 @@ CLASS HOMEWORK: 02
 
 
 ```
+</details>
 
-#### WEEK 01 TOPIC: Conditionals and loops
+<details>
+  <summary>WEEK 01 TOPIC: Conditionals and loops</summary>
 
 ```bash
 
@@ -91,8 +98,10 @@ CLASS HOMEWORK: 03
 
 
 ```
+</details>
 
-#### WEEK 02 TOPIC: Pattern continues
+<details>
+  <summary>WEEK 02 TOPIC: Pattern continues</summary>
 
 ```bash
 
@@ -120,8 +129,10 @@ CLASS HOMEWORK: 04
 
 
 ```
+</details>
 
-#### WEEK 02 TOPIC: Bitwise operators and loops
+<details>
+  <summary>WEEK 02 TOPIC: Bitwise operators and loops</summary>
 
 ```bash
 
@@ -138,8 +149,10 @@ CLASS HOMEWORK: 05
 	2. Why global variables are bad practice
 
 ```
+</details>
 
-#### WEEK 02 TOPIC: Functions
+<details>
+  <summary>WEEK 02 TOPIC: Functions</summary>
 
 ```bash
 
@@ -168,8 +181,10 @@ CLASS HOMEWORK: 06
 	10. Check even/odd using bitwise operator
 
 ```
+</details>
 
-#### WEEK 03 TOPIC: Arrays - Level 1
+<details>
+  <summary>WEEK 03 TOPIC: Arrays - Level 1</summary>
 
 ```bash
 
@@ -198,8 +213,10 @@ CLASS HOMEWORK: 07
 	1. No homework
 
 ```
+</details>
 
-#### WEEK 03 TOPIC: Arrays - Level 2
+<details>
+  <summary>WEEK 03 TOPIC: Arrays - Level 2</summary>
 
 ```bash
 
@@ -219,8 +236,10 @@ CLASS HOMEWORK: 08
 	3. HW 01: Shift array's element by one (Left to right)
 
 ```
+</details>
 
-#### WEEK 03 TOPIC: Arrays - Level 3
+<details>
+  <summary>WEEK 03 TOPIC: Arrays - Level 3</summary>
 
 ```bash
 
@@ -246,6 +265,7 @@ CLASS HOMEWORK: 09
 	2. Sum of secondary diagonal elements
 
 ```
+</details>
 
 <details>
   <summary>WEEK 03 TOPIC: Arrays - Extra Class</summary>
