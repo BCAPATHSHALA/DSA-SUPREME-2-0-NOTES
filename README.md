@@ -25,8 +25,6 @@ In this repository, you will get each and every class's notes in the form of a P
 | :-- | :----------- | :-------------------- | :---------- | :------- | :----- | :--------------- |
 | 1 | `21-08-2023` | **Orientation Class** | 🔴          | 🔴       | 🔴     | 🔴               | -->
 
-
-
 <details>
   <summary>WEEK 01 TOPIC: Introduction to programming</summary>
 
@@ -41,6 +39,7 @@ CLASS HOMEWORK: 01
 
 
 ```
+
 </details>
 
 <details>
@@ -66,6 +65,7 @@ CLASS HOMEWORK: 02
 
 
 ```
+
 </details>
 
 <details>
@@ -98,6 +98,7 @@ CLASS HOMEWORK: 03
 
 
 ```
+
 </details>
 
 <details>
@@ -129,6 +130,7 @@ CLASS HOMEWORK: 04
 
 
 ```
+
 </details>
 
 <details>
@@ -149,6 +151,7 @@ CLASS HOMEWORK: 05
 	2. Why global variables are bad practice
 
 ```
+
 </details>
 
 <details>
@@ -181,6 +184,7 @@ CLASS HOMEWORK: 06
 	10. Check even/odd using bitwise operator
 
 ```
+
 </details>
 
 <details>
@@ -213,6 +217,7 @@ CLASS HOMEWORK: 07
 	1. No homework
 
 ```
+
 </details>
 
 <details>
@@ -236,6 +241,7 @@ CLASS HOMEWORK: 08
 	3. HW 01: Shift array's element by one (Left to right)
 
 ```
+
 </details>
 
 <details>
@@ -265,6 +271,7 @@ CLASS HOMEWORK: 09
 	2. Sum of secondary diagonal elements
 
 ```
+
 </details>
 
 <details>
@@ -295,6 +302,7 @@ CLASS HOMEWORK: 10
 	12. Maximum Average Subarray 1 (Leetcode-643)
 
 ```
+
 </details>
 
 <details>
@@ -317,4 +325,19 @@ CLASS HOMEWORK: 11
 	1. Find pivot element (Leetcode-724)
 
 ```
+
+</details>
+
+<details>
+<summary>Section A</summary>
+<details>
+<summary><i>Section A.B1</i></summary>
+<details>
+<summary><i>Section A.B1</i></summary>
+<details>
+<summary><i>Section A.B2</i></summary>
+  <h2>Done!</h2>
+</details>
+</details>
+</details>
 </details>
