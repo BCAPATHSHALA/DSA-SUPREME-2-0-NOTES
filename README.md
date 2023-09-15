@@ -325,14 +325,4 @@ CLASS HOMEWORK: 11
 	1. Find pivot element (Leetcode-724)
 
 ```
-
-</details>
-
-<details>
-  <summary>
-    <h2 style="background-color:hotpink;">
-      Title
-    </h2>
-  </summary>
-  content
 </details>
