@@ -296,18 +296,73 @@ CLASS HOMEWORK: 11
 ```
 
 <details>
-  <summary>Click me</summary>
+  <summary>WEEK 04 NOTES</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+	<details>
+		<summary>CLASS 11 NOTES</summary>
+		#### WEEK 04 TOPIC: Searching and Sorting - Level 1
 
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+		```bash
+
+		CLASS NOTES: 11
+			1. Linear search
+			2. Binary search (MONOTONIC ARRAY)
+		    	3. Time complexity of binary search
+		    	4. Rules of binary search
+		    	5. Find first occurrence of a number in sorted array
+		    	6. Find last occurrence of a number in sorted array
+			7. Find total occurrence of a number in sorted array
+			8. Find missing element in sorted array (GFG)
+			9. Peak element/index in a mountain array (Leetcode-852)
+
+		CLASS HOMEWORK: 11
+			1. Find pivot element (Leetcode-724)
+
+		```
+	</details>
+		<details>
+		<summary>CLASS 11 NOTES</summary>
+		#### WEEK 04 TOPIC: Searching and Sorting - Level 1
+
+		```bash
+
+		CLASS NOTES: 11
+			1. Linear search
+			2. Binary search (MONOTONIC ARRAY)
+		    	3. Time complexity of binary search
+		    	4. Rules of binary search
+		    	5. Find first occurrence of a number in sorted array
+		    	6. Find last occurrence of a number in sorted array
+			7. Find total occurrence of a number in sorted array
+			8. Find missing element in sorted array (GFG)
+			9. Peak element/index in a mountain array (Leetcode-852)
+		
+		CLASS HOMEWORK: 11
+			1. Find pivot element (Leetcode-724)
+		
+		```
+	</details>
+		<details>
+		<summary>CLASS 11 NOTES</summary>
+		#### WEEK 04 TOPIC: Searching and Sorting - Level 1
+
+		```bash
+
+		CLASS NOTES: 11
+			1. Linear search
+			2. Binary search (MONOTONIC ARRAY)
+		    	3. Time complexity of binary search
+		    	4. Rules of binary search
+		    	5. Find first occurrence of a number in sorted array
+		    	6. Find last occurrence of a number in sorted array
+			7. Find total occurrence of a number in sorted array
+			8. Find missing element in sorted array (GFG)
+			9. Peak element/index in a mountain array (Leetcode-852)
+		
+		CLASS HOMEWORK: 11
+			1. Find pivot element (Leetcode-724)
+		
+		```
+	</details>
+
 </details>
