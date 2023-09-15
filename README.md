@@ -329,17 +329,67 @@ CLASS HOMEWORK: 11
 </details>
 
 <details>
-<summary>Section A</summary>
-<h2>Done!</h2>
+<summary>WEEK 04 NOTES</summary>
 <details>
-<summary><i>Section A.B1</i></summary>
-<h2>Done!</h2>
+<summary><i>Searching and Sorting - Level 1</i></summary>
+
+```bash
+
+CLASS NOTES: 11
+	1. Linear search
+	2. Binary search (MONOTONIC ARRAY)
+    	3. Time complexity of binary search
+    	4. Rules of binary search
+    	5. Find first occurrence of a number in sorted array
+    	6. Find last occurrence of a number in sorted array
+	7. Find total occurrence of a number in sorted array
+	8. Find missing element in sorted array (GFG)
+	9. Peak element/index in a mountain array (Leetcode-852)
+
+CLASS HOMEWORK: 11
+	1. Find pivot element (Leetcode-724)
+
+```
 <details>
-<summary><i>Section A.B1</i></summary>
-<h2>Done!</h2>
+<summary><i>Searching and Sorting - Level 2</i></summary>
+
+```bash
+
+CLASS NOTES: 11
+	1. Linear search
+	2. Binary search (MONOTONIC ARRAY)
+    	3. Time complexity of binary search
+    	4. Rules of binary search
+    	5. Find first occurrence of a number in sorted array
+    	6. Find last occurrence of a number in sorted array
+	7. Find total occurrence of a number in sorted array
+	8. Find missing element in sorted array (GFG)
+	9. Peak element/index in a mountain array (Leetcode-852)
+
+CLASS HOMEWORK: 11
+	1. Find pivot element (Leetcode-724)
+
+```
 <details>
-<summary><i>Section A.B2</i></summary>
-  <h2>Done!</h2>
+<summary><i>Searching and Sorting - Level 3</i></summary>
+
+```bash
+
+CLASS NOTES: 11
+	1. Linear search
+	2. Binary search (MONOTONIC ARRAY)
+    	3. Time complexity of binary search
+    	4. Rules of binary search
+    	5. Find first occurrence of a number in sorted array
+    	6. Find last occurrence of a number in sorted array
+	7. Find total occurrence of a number in sorted array
+	8. Find missing element in sorted array (GFG)
+	9. Peak element/index in a mountain array (Leetcode-852)
+
+CLASS HOMEWORK: 11
+	1. Find pivot element (Leetcode-724)
+
+```
 </details>
 </details>
 </details>
