@@ -330,10 +330,13 @@ CLASS HOMEWORK: 11
 
 <details>
 <summary>Section A</summary>
+<h2>Done!</h2>
 <details>
 <summary><i>Section A.B1</i></summary>
+<h2>Done!</h2>
 <details>
 <summary><i>Section A.B1</i></summary>
+<h2>Done!</h2>
 <details>
 <summary><i>Section A.B2</i></summary>
   <h2>Done!</h2>
