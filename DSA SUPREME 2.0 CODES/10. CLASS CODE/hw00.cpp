@@ -1,4 +1,4 @@
-// HW 00: Re-arrange array elements (Leetcode-2149)
+// HW 01: Re-arrange array elements (Leetcode-2149)
 
 class Solution {
 public:

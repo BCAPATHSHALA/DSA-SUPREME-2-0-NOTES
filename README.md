@@ -260,18 +260,18 @@ CLASS NOTES: 10
     	6. Rotate Image by 90 degree (VVImp Leetcode-48)
 
 CLASS HOMEWORK: 10
-	0. Re-arrange array elements (Leetcode-2149)
-	1. Key Pair
+	1. Re-arrange array elements (Leetcode-2149)
 	2. Find Pivot Index (Leetcode-724)
-	3. Remove Duplicates From Sorted Array
-	4. Maximum Average Subarray 1
-	5. Find Duplicate Number (Leetcode-287)
-	6. Missing Element From An Array With Duplicates
-	7. Find First Repeating Element (GFG)
-	8. Common Element in 3 Sorted Array (GFG)
-	9. Wave Print A Matrix
-	10. Spiral Print A Matrix (Leetcode-54)
-	11. Factorial of A Large Number (GFG)
+	3. Find Duplicate Number (Leetcode-287)
+	4. Missing Element From An Array With Duplicates (GFG)
+	5. Find First Repeating Element (GFG)
+	6. Common Element in 3 Sorted Array (GFG)
+	7. Wave Print A Matrix (GFG)
+	8. Spiral Print A Matrix (Leetcode-54)
+	9. Factorial of A Large Number (GFG)
+	10. Key Pair (Leetcode-1)
+	11. Remove Duplicates From Sorted Array (Leetcode-26)
+	12. Maximum Average Subarray 1 (Leetcode-643)
 
 ```
 
