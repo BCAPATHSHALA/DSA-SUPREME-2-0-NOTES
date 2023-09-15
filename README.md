@@ -296,8 +296,7 @@ CLASS HOMEWORK: 11
 ```
 
 <details>
-  <summary>WEEK 04 NOTES</summary>
-  #### WEEK 04 TOPIC: Searching and Sorting - Level 1
+  <summary>WEEK 04 TOPIC: Searching and Sorting - Level 1</summary>
 
 ```bash
 
@@ -316,6 +315,5 @@ CLASS HOMEWORK: 11
 	1. Find pivot element (Leetcode-724)
 
 ```
-
 
 </details>
