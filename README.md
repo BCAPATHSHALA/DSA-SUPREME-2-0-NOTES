@@ -327,3 +327,12 @@ CLASS HOMEWORK: 11
 ```
 
 </details>
+
+<details>
+  <summary>
+    <h2 style="background-color:hotpink;">
+      Title
+    </h2>
+  </summary>
+  content
+</details>
