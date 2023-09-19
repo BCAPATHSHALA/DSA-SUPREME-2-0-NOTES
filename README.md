@@ -300,6 +300,8 @@ CLASS HOMEWORK: 10
 	10. Key Pair (Leetcode-1)
 	11. Remove Duplicates From Sorted Array (Leetcode-26)
 	12. Maximum Average Subarray 1 (Leetcode-643)
+	13. Find Pivot Index with prefix sum approach (Leetcode-724)
+	14. Missing Number with XOR operator (Leetcode-268)
 
 ```
 
@@ -322,7 +324,7 @@ CLASS NOTES: 11
 	9. Peak element/index in a mountain array (Leetcode-852)
 
 CLASS HOMEWORK: 11
-	1. Find pivot element (Leetcode-724)
+	1. Find pivot element (LeftSum equals to RightSum)(Leetcode-724)
 
 ```
 
