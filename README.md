@@ -327,3 +327,21 @@ CLASS HOMEWORK: 11
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 04 TOPIC: Searching and Sorting - Level 2</summary>
+
+```bash
+
+CLASS NOTES: 12
+	1. Find pivot element index from sorted and rotated array
+	2. Search in a rotated and sorted array (Leetcode-33)
+    	3. Sqrt of X (Leetcode-69)
+		4. Binary search in 2D array (Leetcode-74)
+
+CLASS HOMEWORK: 12
+	1. Find sqrt of X upto 3 decimal place
+
+```
+
+</details>
