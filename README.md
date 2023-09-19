@@ -340,7 +340,7 @@ CLASS NOTES: 12
 	4. Binary search in 2D array (Leetcode-74)
 
 CLASS HOMEWORK: 12
-	1. Find sqrt of X upto 3 decimal place
+	1. Find sqrt of X upto N decimal place
 
 ```
 
