@@ -347,3 +347,20 @@ CLASS HOMEWORK: 12
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 04 TOPIC: Searching and Sorting - Level 3</summary>
+
+```bash
+
+CLASS NOTES: 13
+	1. Divide two number using Binary search without using any / and % operator
+	2. Binary search on nearly sorted array
+    	3. Find the Number Occurring Odd Number of Times
+
+CLASS HOMEWORK: 13
+	1. Divide two number using Binary search upto N decimal place
+
+```
+
+</details>
