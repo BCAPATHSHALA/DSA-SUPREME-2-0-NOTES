@@ -302,6 +302,7 @@ CLASS HOMEWORK: 10
 	12. Maximum Average Subarray 1 (Leetcode-643)
 	13. Find Pivot Index with prefix sum approach (Leetcode-724)
 	14. Missing Number with XOR operator (Leetcode-268)
+	15. Add two numbers represented by two array (GFG Solved before Q.No. 9)
 
 ```
 
@@ -359,7 +360,15 @@ CLASS NOTES: 13
     	3. Find the Number Occurring Odd Number of Times
 
 CLASS HOMEWORK: 13
-	1. Divide two number using Binary search upto N decimal place
+	1. K-Diff Pairs In An Array
+	2. Find K-Closest Element
+	3. Exponential Search & Unbounded Binary Search
+	4. Book Allocation Problem
+	5. Painters Partition Problem
+	6. Aggresive Cows
+	7. EKO SPOJ
+	8. PRATA SPOJ
+	9. Divide two number using Binary search upto N decimal place
 
 ```
 
