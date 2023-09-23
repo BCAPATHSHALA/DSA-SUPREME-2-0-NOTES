@@ -423,10 +423,3 @@ CLASS HOMEWORK: 14
 ```
 
 </details>
-
-<!-- 
-String refers to a sequence of characters represented as a single data type. 
-Character Array is a sequential collection of data type char. 
-Strings are immutable. 
-Character Arrays are mutable. 
--->
