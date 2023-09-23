@@ -382,17 +382,17 @@ CLASS HOMEWORK: 13
 CLASS NOTES: 14
 
 	✅CHAR ARRAYS
-	1. Integer Vs char array
+	1. What is char array
 	2. ASCII CHARACTER CODE 256
     	3. Char array creation
 	4. Taking input in char array
-	5. Access char array
+	5. Print and access char array
 	6. Null char ASCII CODE
-	7. Delimetor concept
+	7. Delimiter concept
 	8. cin.getline(p1,p2) method
 	9. Program 01: Length of string
 	10. Program 02: Reverse string
-	11. Program 03: Uppercase to lowercase and vise varsa
+	11. Program 03: Uppercase to lowercase and vice versa
 	12. Program 04: Replace @ with the white space
 	13. Program 05: Check palindrome
 
@@ -402,7 +402,8 @@ CLASS NOTES: 14
 	16. Taking input in string
 	17. Print string and access string by index
 	18. getline(cin,name) method
-	19. Important predefined function of string
+	19. Char array Vs string
+	20. Important predefined function of string
 	->	Method 01:
 	->	Method 02:
 	->	Method 03:
@@ -413,13 +414,19 @@ CLASS NOTES: 14
 	->	Method 08:
 	->	Method 09:
 	->	Method 10:
-	20. Char array Vs string
 
 
 CLASS HOMEWORK: 14
 	1. ASCII CHARACTER CODE 256
-	2. Explore builtin method from CPLUSHCPLUSH.COM
+	2. Explore build in method from CPLUSHCPLUSH.COM
 
 ```
 
 </details>
+
+<!-- 
+String refers to a sequence of characters represented as a single data type. 
+Character Array is a sequential collection of data type char. 
+Strings are immutable. 
+Character Arrays are mutable. 
+-->
