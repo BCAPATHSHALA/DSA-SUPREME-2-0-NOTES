@@ -416,7 +416,7 @@ CLASS NOTES: 14
 	20. Char array Vs string
 
 
-CLASS HOMEWORK: 13
+CLASS HOMEWORK: 14
 	1. ASCII CHARACTER CODE 256
 	2. Explore builtin method from CPLUSHCPLUSH.COM
 
