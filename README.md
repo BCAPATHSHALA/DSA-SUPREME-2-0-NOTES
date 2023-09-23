@@ -297,7 +297,7 @@ CLASS HOMEWORK: 10
 	7. Wave Print A Matrix (GFG)
 	8. Spiral Print A Matrix (Leetcode-54)
 	9. Factorial of A Large Number (GFG)
-	10. Key Pair (Leetcode-1)
+	10. Key Pair/Two Sum (GFG and Leetcode-1)
 	11. Remove Duplicates From Sorted Array (Leetcode-26)
 	12. Maximum Average Subarray 1 (Leetcode-643)
 	13. Find Pivot Index with prefix sum approach (Leetcode-724)
@@ -373,3 +373,5 @@ CLASS HOMEWORK: 13
 ```
 
 </details>
+
+
