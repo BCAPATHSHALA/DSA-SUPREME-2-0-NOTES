@@ -384,7 +384,7 @@ CLASS NOTES: 14
 	✅CHAR ARRAYS
 	1. Integer Vs char array
 	2. ASCII CHARACTER CODE 256
-    3. Char array creation
+    	3. Char array creation
 	4. Taking input in char array
 	5. Access char array
 	6. Null char ASCII CODE
@@ -414,7 +414,7 @@ CLASS NOTES: 14
 	->	Method 09:
 	->	Method 10:
 	20. Char array Vs string
-		
+
 
 CLASS HOMEWORK: 13
 	1. ASCII CHARACTER CODE 256
@@ -423,4 +423,3 @@ CLASS HOMEWORK: 13
 ```
 
 </details>
-
