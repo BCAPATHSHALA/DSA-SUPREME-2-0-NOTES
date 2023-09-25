@@ -360,15 +360,19 @@ CLASS NOTES: 13
     	3. Find the Number Occurring Odd Number of Times
 
 CLASS HOMEWORK: 13
-	1. K-Diff Pairs In An Array
+	1. K-Diff Pairs in An Array
 	2. Find K-Closest Element
-	3. Exponential Search & Unbounded Binary Search
-	4. Book Allocation Problem
-	5. Painters Partition Problem
-	6. Aggresive Cows
-	7. EKO SPOJ
-	8. PRATA SPOJ
-	9. Divide two number using Binary search upto N decimal place
+	3. Exponential Search
+	4. Unbounded Binary Search
+	5. Book Allocation Problem
+	6. Painters Partition Problem
+	7. Aggresive Cows
+	8. EKO SPOJ
+	9. PRATA SPOJ
+	10. Find SQRT of Integer N using Binary Search with K point decimal precision.
+	11. Divide using Binary Search with K point decimal precision.
+	12. Majority Element (Leetcode-169)
+
 
 ```
 
