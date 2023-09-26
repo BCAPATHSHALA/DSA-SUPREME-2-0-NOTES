@@ -357,7 +357,7 @@ CLASS HOMEWORK: 12
 CLASS NOTES: 13
 	1. Divide two number using Binary search without using any / and % operator
 	2. Binary search on nearly sorted array
-    	3. Find the Number Occurring Odd Number of Times
+    	3. Find the Number Occurring Odd Number of Times (Leetcode-540)
 
 CLASS HOMEWORK: 13
 	1. K-Diff Pairs in An Array
@@ -436,6 +436,26 @@ CLASS NOTES: 14
 CLASS HOMEWORK: 14
 	1. ASCII CHARACTER CODE 256
 	2. Explore build in method from CPLUSHCPLUSH.COM
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 05 TOPIC: Char Arrays and Strings - Level 2</summary>
+
+```bash
+
+CLASS NOTES: 15
+	1. Remove All Adjacent Duplicates In String (Leetcode-1047)
+	2. Remove All Occurrences of a Substring (Leetcode-1910)
+    	3. Valid Palindrome II (Leetcode-680)
+	4. Palindromic Substrings (Leetcode-647)
+
+
+CLASS HOMEWORK: 15
+	1. Remove All Adjacent Duplicates in String II (Leetcode-1209)
+	2. Minimum Time Difference (Leetcode-539)
 
 ```
 
