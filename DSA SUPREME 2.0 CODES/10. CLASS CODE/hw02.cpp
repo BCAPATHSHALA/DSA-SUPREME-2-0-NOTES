@@ -23,7 +23,16 @@ public:
 };
 
 
-// Time Complexity: O(N)
+    /*
+    First Approach
+    APPROACH PSEUDO CODE:
+    Step 01: find total sum of array as right sum
+    Step 02: subtract element one by one from right sum until left sum is equal to right sum
+    Step 03: return the index which terminate the loop
+
+    TIME COMPLEXITY: O(N), Where N is length of nums
+    SPACE COMPLEXITY: O(1), No extra space used
+    */
 
 
 /*
