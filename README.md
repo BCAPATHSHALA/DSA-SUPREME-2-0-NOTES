@@ -460,3 +460,22 @@ CLASS HOMEWORK: 15
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 05 TOPIC: Char Arrays and Strings - Level 3</summary>
+
+```bash
+
+CLASS NOTES: 16
+	1. Decode the Message (Leetcode-2325)
+	2. Minimum Amount of Time to Collect Garbage (Leetcode-2391)
+    	3. Custom Sort String (Leetcode-791)
+	4. Find and Replace Pattern (Leetcode-890)
+
+
+CLASS HOMEWORK: 16
+	1. Number of Laser Beams in a Bank (Leetcode-2125)
+
+```
+
+</details>
