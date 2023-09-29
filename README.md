@@ -360,7 +360,7 @@ CLASS NOTES: 13
     	3. Find the Number Occurring Odd Number of Times (Leetcode-540)
 
 CLASS HOMEWORK: 13
-	1. K-Diff Pairs in An Array
+	1. K-Diff Pairs in An Array (Leetcode-532)
 	2. Find K-Closest Element
 	3. Exponential Search
 	4. Unbounded Binary Search
