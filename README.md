@@ -361,7 +361,7 @@ CLASS NOTES: 13
 
 CLASS HOMEWORK: 13
 	1. K-Diff Pairs in An Array (Leetcode-532)
-	2. Find K-Closest Element
+	2. Find K-Closest Element (Leetcode-658)
 	3. Exponential Search
 	4. Unbounded Binary Search
 	5. Book Allocation Problem
