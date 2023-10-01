@@ -362,11 +362,11 @@ CLASS NOTES: 13
 CLASS HOMEWORK: 13
 	1. K-Diff Pairs in An Array (Leetcode-532)
 	2. Find K-Closest Element (Leetcode-658)
-	3. Exponential Search
-	4. Unbounded Binary Search
-	5. Book Allocation Problem
-	6. Painters Partition Problem
-	7. Aggresive Cows
+	3. Exponential Search (Concept)
+	4. Unbounded Binary Search (Concept)
+	5. Book Allocation Problem (GFG & Code studio)
+	6. Painters Partition Problem (GFG & Code studio)
+	7. Aggresive Cows (GFG & Code studio)
 	8. EKO SPOJ
 	9. PRATA SPOJ
 	10. Find SQRT of Integer N using Binary Search with K point decimal precision.
