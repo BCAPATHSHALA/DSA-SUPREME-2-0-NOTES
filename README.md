@@ -366,7 +366,7 @@ CLASS HOMEWORK: 13
 	4. Unbounded Binary Search (Concept)
 	5. Book Allocation Problem (GFG & Code studio)
 	6. Painters Partition Problem (GFG & Code studio)
-	7. Aggresive Cows (GFG & Code studio)
+	7. Aggressive Cows (GFG & Code studio)
 	8. EKO SPOJ
 	9. PRATA SPOJ
 	10. Find SQRT of Integer N using Binary Search with K point decimal precision.
@@ -474,7 +474,24 @@ CLASS NOTES: 16
 
 
 CLASS HOMEWORK: 16
-	1. Number of Laser Beams in a Bank (Leetcode-2125)
+	1. Valid Anagram
+	2. Reverse Only Letters
+	3. Longest Common Prefix
+	4. Reverse Vowels of a String
+	5. Isomorphic Strings
+	6. Reorganise String
+	7. Group Anagrams
+	8. Longest Palindromic Substring
+	9. Find the Index of the First Occurrence in a String
+	10. String to Integer (atoi)
+	11. String Compression
+	12. Integer to Roman
+	13. Zig-zag Conversion
+	14. Largest Number
+	15. Remove All Adjacent Duplicates in String II (Leetcode-1209)
+	16. Implement std::string::erase()
+	17. Minimum Time Difference (Leetcode-539)
+	18. Number of Laser Beams in a Bank (Leetcode-2125)
 
 ```
 

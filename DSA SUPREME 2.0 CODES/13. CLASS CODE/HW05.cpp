@@ -57,7 +57,7 @@ int allocateBooks(vector<int> arr, int n, int m) {
 }
 
 /*
-Problem Statement
+Problem Statement:
 You are given an array ‘pages’ of integer numbers. 
 In this array, the ‘pages[i]’ represents the number of pages in the ‘i-th’ book. 
 There are ‘m’ number of students, and the task is to allocate all the books to the students. 
