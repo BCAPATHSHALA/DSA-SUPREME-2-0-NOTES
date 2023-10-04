@@ -21,9 +21,19 @@ In this repository, you will get each and every class's notes in the form of a P
 
 ## COURSE STRUCTURE
 
-<!-- | NO. | DATE         | CLASS TOPIC           | CLASS NOTES | HW NOTES | QUIZES | DEBUG EXCERCISES |
-| :-- | :----------- | :-------------------- | :---------- | :------- | :----- | :--------------- |
-| 1 | `21-08-2023` | **Orientation Class** | 🔴          | 🔴       | 🔴     | 🔴               | -->
+<details>
+  <summary>WEEKLY DOUBTS CLASSES</summary>
+
+```bash
+
+✅WEEK 06
+	DOUBT 01: Lower and upper bound for sorted array
+	DOUBT 02: Remove All Occurrences of a Substring (Leetcode-1910)
+	DOUBT 03: Majority Element (Leetcode-169)
+
+```
+
+</details>
 
 <details>
   <summary>WEEK 01 TOPIC: Introduction to programming</summary>
