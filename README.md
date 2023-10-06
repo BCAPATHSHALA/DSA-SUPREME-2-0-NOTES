@@ -522,7 +522,7 @@ CLASS NOTES: 17
 	7. Char array and pointer (4 Practice Questions)
 
 
-CLASS HOMEWORK: 16
+CLASS HOMEWORK: 17
 	1. Why pointer size was coming 8 while printing
 	2. why we can not do [arr = arr + 1;] in C++
 	3. Wild pointer in C++
@@ -531,9 +531,23 @@ CLASS HOMEWORK: 16
 	6. Pointers imporatant doubt
 
 BASIC MATHEMATICS FOR DSA
-	1. Basic mathematics for DSA
-	2. Optimising Sieve and Segmented Sieve
+	PROGRAM 01: Count primes (Leetcode-204)
+	APPROACH 01: Naive
+	APPROACH 02: SQRT
+	APPROACH 03: Sieve of Eratoshenes
+	APPROACH 04: Segmented sieve
+	PROGRAM 02: Find GCD/HCF using Euclids Algorithm (GFG)
+	PROGRAM 03: Find LCM (GFG)
+	CONCEPT 01: Modulo Arithmetic
+	PROGRAM 04: Fast exponentiation (GFG)
+	APPROACH 01: Naive solution
+	APPROACH 02: Better solution
+	PROGRAM 05: Modular Exponentiation for large numbers (GFG)
+	6. Optimising Sieve and Segmented Sieve
 
 ```
 
 </details>
+
+<!-- Step 01: Assume that all number are prime
+Step 02: Find prime number and remove the multiple of prime number until N-1 size -->
