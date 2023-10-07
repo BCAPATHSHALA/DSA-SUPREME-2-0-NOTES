@@ -544,6 +544,7 @@ BASIC MATHEMATICS FOR DSA
 		APPROACH 02: Better solution
 	PROGRAM 05: Modular Exponentiation for large numbers (GFG)
 	PROGRAM 06: Optimising Sieve of Eratosthenes
+	6. Optimising Sieve Eratosthenes and Segmented Sieve
 
 ```
 
