@@ -3,6 +3,7 @@
 # Download Epic Notes
 
 [📩Download Awesome Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
+[✅SEGMENTED SIEVE PROGRAM DOWNLOAD WITH DRY RUN](https://drive.google.com/file/d/17UBI8eX-aF6qPf1h7RgL6X8e09FkgEMJ/view?usp=sharing)
 
 ### COURSE MENTORS LOVE BABBAR AND LAKSHAY KUMAR BHAIYA
 
@@ -11,13 +12,6 @@ This course belongs to [The code help](https://www.thecodehelp.in) and follows b
 ### PDF NOTES AND CPP PROGRAMS
 
 In this repository, you will get each and every class's notes in the form of a PDF and program with an explanation. Also, get the notes on the discord channel [Console Buster](https://discord.gg/naQUPVWvSs) as well as subscribe to the youtube channel [Console Buster](https://www.youtube.com/@ConsoleBusters) to watch our doubts and much more.
-
-<!-- | Status        | Color |
-| ------------- | ----- |
-| Pending       | 🟡    |
-| Progress      | 🔵    |
-| Done          | 🟢    |
-| Not available | 🔴    | -->
 
 ## COURSE STRUCTURE
 
@@ -544,10 +538,8 @@ BASIC MATHEMATICS FOR DSA
 		APPROACH 02: Better solution
 	PROGRAM 05: Modular Exponentiation for large numbers (GFG)
 	PROGRAM 06: Optimising Sieve of Eratosthenes
+	PROGRAM 07: Segmented Sieve (GFG)
 
 ```
 
 </details>
-
-<!-- Step 01: Assume that all number are prime
-Step 02: Find prime number and remove the multiple of prime number until N-1 size -->
