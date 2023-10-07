@@ -532,18 +532,18 @@ CLASS HOMEWORK: 17
 
 BASIC MATHEMATICS FOR DSA
 	PROGRAM 01: Count primes (Leetcode-204)
-	APPROACH 01: Naive
-	APPROACH 02: SQRT
-	APPROACH 03: Sieve of Eratoshenes
-	APPROACH 04: Segmented sieve
+		APPROACH 01: Naive
+		APPROACH 02: SQRT
+		APPROACH 03: Sieve of Eratosthenes
+		APPROACH 04: Segmented sieve
 	PROGRAM 02: Find GCD/HCF using Euclids Algorithm (GFG)
 	PROGRAM 03: Find LCM (GFG)
 	CONCEPT 01: Modulo Arithmetic
 	PROGRAM 04: Fast exponentiation (GFG)
-	APPROACH 01: Naive solution
-	APPROACH 02: Better solution
+		APPROACH 01: Naive solution
+		APPROACH 02: Better solution
 	PROGRAM 05: Modular Exponentiation for large numbers (GFG)
-	6. Optimising Sieve and Segmented Sieve
+	PROGRAM 06: Optimising Sieve of Eratosthenes
 
 ```
 

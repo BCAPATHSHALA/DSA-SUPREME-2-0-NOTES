@@ -1,4 +1,4 @@
-// MODULO ARITHMETIC 
+// CONCEPT 01: MODULO ARITHMETIC 
 
 What is Modulo Arithmatic?
 Generally, to avoid the overflow while storing integer we do modulo with a large number.
