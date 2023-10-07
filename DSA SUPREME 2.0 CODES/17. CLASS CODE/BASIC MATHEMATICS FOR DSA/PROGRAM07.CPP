@@ -108,12 +108,12 @@ int main(){
 /*
 Examples: find Prime Numbers Between given Interval[Left,Right] (GFG)
 
-Input : a = 1, b = 10
+Input : L = 1, R = 10
 Output : 2, 3, 5, 7
 
-Input : a = 10, b = 20
+Input : L = 10, R = 20
 Output : 11, 13, 17, 19
 
-Input : a = 110, b = 130
+Input : L = 110, R = 130
 Output : 113, 127, 131
 */
