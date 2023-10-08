@@ -4,8 +4,6 @@
 
 [📩Download Awesome Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
 
-[✅SEGMENTED SIEVE PROGRAM DOWNLOAD WITH DRY RUN](https://drive.google.com/file/d/17UBI8eX-aF6qPf1h7RgL6X8e09FkgEMJ/view?usp=sharing)
-
 ### COURSE MENTORS LOVE BABBAR AND LAKSHAY KUMAR BHAIYA
 
 This course belongs to [The code help](https://www.thecodehelp.in) and follows both our favorite mentors [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/) & [Lakshay Kumar](https://www.linkedin.com/in/lakshayk12/).
@@ -540,6 +538,7 @@ BASIC MATHEMATICS FOR DSA
 	PROGRAM 05: Modular Exponentiation for large numbers (GFG)
 	PROGRAM 06: Optimising Sieve of Eratosthenes
 	PROGRAM 07: Segmented Sieve (GFG)
+	PROGRAM 08: HW🔗Product of primes (GFG)
 
 ```
 
