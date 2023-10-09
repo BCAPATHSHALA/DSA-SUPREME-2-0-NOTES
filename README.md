@@ -543,3 +543,20 @@ BASIC MATHEMATICS FOR DSA
 ```
 
 </details>
+<details>
+  <summary>WEEK 06 TOPIC: Basic Maths & Pointers - Level 2</summary>
+
+```bash
+
+CLASS NOTES: 18
+	1. Array of pointer
+	2. Pointer to an array
+    	3. Pointer with functions
+	4. Pointer to pointer (3 Practice Questions)
+	5. Pass by value 
+	6. Pass by reference
+	7. MCQs on pointers practice
+
+```
+
+</details>

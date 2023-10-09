@@ -1,0 +1,1 @@
+// MCQs on pointers practice
