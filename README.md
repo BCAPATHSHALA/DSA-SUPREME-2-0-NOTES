@@ -595,17 +595,17 @@ CLASS HOMEWORK: 19
 CLASS NOTES: 20
 	1. Climbing stairs (Leetcode-70)
 	2. Print array
-    	3. Search in array
+		3. Search in array
 	4. Minimum in array
-	5. Arrays even element stored in vector
+	5. Arrays even elements stored in vector
 	6. Double each element
-	7. Find in array
+	7. Find in Array
 	8. Print index of all occurrence of target
-	9. Return vector with all occurrence of target
-	10. Print digits of number
+	9. Return vector with all occurrences of target
+	10. Print the digits of the number
 
 CLASS HOMEWORK: 20
-	1. Print Fibonacci series using iterative method
+	1. Print the Fibonacci series using an iterative method
 	2. Maximum in an array
 	3. Print number of digits
 	4. Find target in string and print it's target indices
