@@ -19,7 +19,7 @@ In this repository, you will get each and every class's notes in the form of a P
 
 ```bash
 
-✅WEEK 06
+✅WEEK 05
 	DOUBT 01: Lower and upper bound for sorted array
 	DOUBT 02: Remove All Occurrences of a Substring (Leetcode-1910)
 	DOUBT 03: Majority Element (Leetcode-169)
@@ -583,7 +583,33 @@ CLASS NOTES: 19
 CLASS HOMEWORK: 19
 	1. Time and space complexity of recursion
 
+```
 
+</details>
+
+<details>
+  <summary>WEEK 07 TOPIC: Recursion - Level 2</summary>
+
+```bash
+
+CLASS NOTES: 20
+	1. Climbing stairs (Leetcode-70)
+	2. Print array
+    	3. Search in array
+	4. Minimum in array
+	5. Arrays even element stored in vector
+	6. Double each element
+	7. Find in array
+	8. Print index of all occurrence of target
+	9. Return vector with all occurrence of target
+	10. Print digits of number
+
+CLASS HOMEWORK: 20
+	1. Print Fibonacci series using iterative method
+	2. Maximum in an array
+	3. Print number of digits
+	4. Find target in string and print it's target indices
+	
 ```
 
 </details>
