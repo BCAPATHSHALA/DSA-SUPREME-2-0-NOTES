@@ -595,7 +595,7 @@ CLASS HOMEWORK: 19
 CLASS NOTES: 20
 	1. Climbing stairs (Leetcode-70)
 	2. Print array
-		3. Search in array
+	3. Search in array
 	4. Minimum in array
 	5. Arrays even elements stored in vector
 	6. Double each element
