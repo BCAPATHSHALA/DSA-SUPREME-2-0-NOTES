@@ -19,7 +19,7 @@ In this repository, you will get each and every class's notes in the form of a P
 
 ```bash
 
-✅WEEK 05
+✅WEEK 06
 	DOUBT 01: Lower and upper bound for sorted array
 	DOUBT 02: Remove All Occurrences of a Substring (Leetcode-1910)
 	DOUBT 03: Majority Element (Leetcode-169)
