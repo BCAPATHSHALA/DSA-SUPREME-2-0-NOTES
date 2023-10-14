@@ -613,3 +613,22 @@ CLASS HOMEWORK: 20
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 07 TOPIC: Recursion - Level 3</summary>
+
+```bash
+
+CLASS NOTES: 21
+	1. Check array sorted or not
+	2. Binary search recursive solution
+	3. Pattern 01: Include and exclude pattern
+		✅Problem: Subsequence of string
+	4. Pattern 02: Exploring all possible ways pattern
+		✅Problem: Maximize the cost segment (GFG)
+	5. Coin change (Leetcode-322)
+	6. House Robber (Leetcode-198)
+	
+```
+
+</details>
