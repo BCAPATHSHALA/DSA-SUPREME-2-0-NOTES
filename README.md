@@ -624,10 +624,25 @@ CLASS NOTES: 21
 	2. Binary search recursive solution
 	3. Pattern 01: Include and exclude pattern
 		✅Problem: Subsequence of string
-	4. Pattern 02: Exploring all possible ways pattern
-		✅Problem: Maximize the cost segment (GFG)
-	5. Coin change (Leetcode-322)
-	6. House Robber (Leetcode-198)
+	4. Pattern 02: Exploring all possible ways pattern 
+		✅Problem: Maximize the cost segment (GFG) 
+	5. Coin change (Leetcode-322) 
+	6. House Robber (Leetcode-198) 
+
+CLASS HOMEWORK: 21
+	1. Last occurrence of a char
+	2. Reverse a String
+	3. Add Two Strings (Integer stored as String)
+	4. Palindrome Check
+	5. Print all Subarray
+	6. Remove all Occurrence of a Substring
+	7. Buy and sell stocks
+	8. House Robbery problem
+	9. Integer to English words
+	10. Wild Card Matching
+	11. Perfect Square
+	12. Minimum Cost for Tickets
+	13. Number of Dice Roll with Target Sum
 	
 ```
 
