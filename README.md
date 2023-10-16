@@ -477,10 +477,10 @@ CLASS NOTES: 16
 
 
 CLASS HOMEWORK: 16
-	1. Valid Anagram
-	2. Reverse Only Letters
-	3. Longest Common Prefix
-	4. Reverse Vowels of a String
+	1. Valid Anagram (Leetcode-245)
+	2. Reverse Only Letters (Leetcode-917)
+	3. Longest Common Prefix (Leetcode-14)
+	4. Reverse Vowels of a String (Leetcode-345)
 	5. Isomorphic Strings
 	6. Reorganise String
 	7. Group Anagrams
