@@ -481,7 +481,7 @@ CLASS HOMEWORK: 16
 	2. Reverse Only Letters (Leetcode-917)
 	3. Longest Common Prefix (Leetcode-14)
 	4. Reverse Vowels of a String (Leetcode-345)
-	5. Isomorphic Strings
+	5. Isomorphic Strings (Leetcode-205)
 	6. Reorganise String
 	7. Group Anagrams
 	8. Longest Palindromic Substring
