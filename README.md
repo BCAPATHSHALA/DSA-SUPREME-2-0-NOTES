@@ -609,7 +609,7 @@ CLASS HOMEWORK: 20
 	2. Maximum in an array
 	3. Print number of digits
 	4. Find target in string and print it's target indices
-	
+
 ```
 
 </details>
@@ -624,10 +624,10 @@ CLASS NOTES: 21
 	2. Binary search recursive solution
 	3. Pattern 01: Include and exclude pattern
 		✅Problem: Subsequence of string
-	4. Pattern 02: Exploring all possible ways pattern 
-		✅Problem: Maximize the cost segment (GFG) 
-	5. Coin change (Leetcode-322) 
-	6. House Robber (Leetcode-198) 
+	4. Pattern 02: Exploring all possible ways pattern
+		✅Problem: Maximize the cost segment (GFG)
+	5. Coin change (Leetcode-322)
+	6. House Robber (Leetcode-198)
 
 CLASS HOMEWORK: 21
 	1. Last occurrence of a char
@@ -643,7 +643,27 @@ CLASS HOMEWORK: 21
 	11. Perfect Square
 	12. Minimum Cost for Tickets
 	13. Number of Dice Roll with Target Sum
-	
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 08 TOPIC: Backtracking & Divide and conquer - Class 01</summary>
+
+```bash
+
+CLASS NOTES: 22
+	1. Divide and conquer algorithm
+	2. Merge sort
+	3. Merge two sorted array
+	4. Stack and heap memory
+	5. Time complexity of merge sort
+
+CLASS HOMEWORK: 22
+	1. Inversion count in Array using Merge Sort
+	2. Space complexity of merge sort
+
 ```
 
 </details>
