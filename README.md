@@ -482,8 +482,8 @@ CLASS HOMEWORK: 16
 	3. Longest Common Prefix (Leetcode-14)
 	4. Reverse Vowels of a String (Leetcode-345)
 	5. Isomorphic Strings (Leetcode-205)
-	6. Reorganise String
-	7. Group Anagrams
+	6. Group Anagrams (Leetcode-49)
+	7. Reorganise String
 	8. Longest Palindromic Substring
 	9. Find the Index of the First Occurrence in a String
 	10. String to Integer (atoi)
@@ -659,6 +659,7 @@ CLASS NOTES: 22
 	3. Merge two sorted array
 	4. Stack and heap memory
 	5. Time complexity of merge sort
+	6. Quick sort algorithm
 
 CLASS HOMEWORK: 22
 	1. Inversion count in Array using Merge Sort
