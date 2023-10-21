@@ -114,3 +114,11 @@ int main() {
 
 	return 0;
 }
+
+/*
+Space complexity of merge sort = O(N)
+Time complexity of merge sort = O(N logN)
+Example: 
+Input: arr [7, 2, 1, 8, 6, 3, 5, 4]
+Output: 1 2 3 4 5 6 7 8
+*/

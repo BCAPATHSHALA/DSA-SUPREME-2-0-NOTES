@@ -36,6 +36,10 @@ void quickSort(int arr[], int start, int end)
 }
 
 
-// Example: 
-// Input: arr [7, 2, 1, 8, 6, 3, 5, 4]
-// Output: 1 2 3 4 5 6 7 8
+/*
+Space complexity of quick sort = O(N)
+Time complexity of quick sort = O(N^2)
+Example: 
+Input: arr [7, 2, 1, 8, 6, 3, 5, 4]
+Output: 1 2 3 4 5 6 7 8
+*/

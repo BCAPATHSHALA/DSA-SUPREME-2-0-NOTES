@@ -7,7 +7,8 @@
     "unordered_map": "cpp",
     "unordered_set": "cpp",
     "array": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "vector": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }

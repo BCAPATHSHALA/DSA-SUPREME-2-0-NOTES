@@ -662,8 +662,22 @@ CLASS NOTES: 22
 	6. Quick sort algorithm
 
 CLASS HOMEWORK: 22
-	1. Inversion count in Array using Merge Sort
-	2. Space complexity of merge sort
+	1. Space complexity of merge sort
+	2. Inversion count in Array using Merge Sort
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 08 TOPIC: Backtracking & Divide and conquer - Class 02</summary>
+
+```bash
+
+CLASS NOTES: 23
+	1. What is backtracking?
+	2. Permutation of string
+	3. Rat in a maze
 
 ```
 
