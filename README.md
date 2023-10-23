@@ -682,3 +682,25 @@ CLASS NOTES: 23
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 08 TOPIC: Recursion marathon - Extra class</summary>
+
+```bash
+
+CLASS NOTES: 24
+	1. Maximum sum of nod - adjacent element - House Robber (Leetcode-198)
+	2. House Robber II (Leetcode-213)
+	3. Count Derangements (GFG)
+	4. Painting Fence Algorithm (GFG)
+	5. Edit distance (Leetcode-72)
+	6. Maximal Square (Leetcode-221)
+
+CLASS HOMEWORK: 24
+	1. 0/1 Knapsack Problem (GFG)
+	2. Minimum Score Triangulation of Polygon (Leetcode-1039)
+	3. Number of Dice Rolls With Target Sum (Leetcode-1155)
+
+```
+
+</details>
