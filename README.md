@@ -679,6 +679,16 @@ CLASS NOTES: 23
 	2. Permutation of string
 	3. Rat in a maze
 
+CLASS HOMEWORK: 23
+	1. Count inversion
+	2. In-place merge sort
+	3. Maximum Subarray
+	4. Combination sum problem
+	5. Combination sum problem - II
+	6. Permutation - II
+	7. Beautiful Arrangement
+	8. Distribute Repeating Integers
+
 ```
 
 </details>
@@ -702,5 +712,27 @@ CLASS HOMEWORK: 24
 	3. Number of Dice Rolls With Target Sum (Leetcode-1155)
 
 ```
+</details>
 
+<details>
+  <summary>WEEK 09 TOPIC: Object Oriented Programming - Class 01</summary>
+
+```bash
+
+CLASS NOTES: 25
+	1. Local and global variable
+	2. Memory layout of a program
+	3. Functional programming
+	4. Object oriented programming
+	5. Class
+	6. Object
+	7. Access modifiers
+	8. Constructor
+	9. Polymorphism
+	10. This pointer
+	11. Stack and Heap memory allocation 
+	(Static and Dynamic Allocation of memory)
+	12. Padding concept
+
+```
 </details>
