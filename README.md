@@ -746,3 +746,45 @@ CLASS HOMEWORK: 25
 
 ```
 </details>
+
+
+<details>
+  <summary>WEEK 09 TOPIC: Object Oriented Programming - Class 02</summary>
+
+```bash
+
+CLASS NOTES: 26
+	1. Copy constructor
+	2. Life cycle of an object
+	3. Destructor
+	4. Getter and setter method
+	5. Abstraction (One Pillor of OOPS)
+	5.1. Encapsulation
+	5.1.1 Perfect encapsulation
+	5.2 Inheritance
+	5.2.1 Mode of inheritance table
+	5.2.2 Type of inheritance
+	5.2.2.1 Single inheritance
+	5.2.2.2 Multilevel inheritance
+	5.2.2.3 Hierarchical inheritance
+	5.2.2.4 Multiple inheritance
+	5.2.2.5 Diamond Problem (Hybrid inheritance)
+	5.2.2.5.1 Sol 01: Scope resolution
+	5.2.2.5.2 Sol 02: Using virtual
+	5.3 Polymorphism
+	5.3.1 Static/compile time polymorphism
+	5.3.1.1 Function overloading
+	5.3.1.2 Constructor overloading
+	5.3.1.3 Operator overloading
+	5.3.1 Run time polymorphism
+
+CLASS HOMEWORK: 26
+	1. Shallow vs deep copy
+	2. Can constructor be made private
+	3. Virtual CTOR vs virtual DTOR
+	4. Abstraction in C++
+	5. Inline function
+	6. Friend keyword in C++
+
+```
+</details>
