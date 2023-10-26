@@ -734,5 +734,15 @@ CLASS NOTES: 25
 	(Static and Dynamic Allocation of memory)
 	12. Padding concept
 
+CLASS HOMEWORK: 25
+	1. Const keyword
+	2. Default argument
+	3. Initialization list
+	4. MACROS
+	5. Static keyword in class
+		- How does class work
+		- Static data members
+		- Static member function
+
 ```
 </details>

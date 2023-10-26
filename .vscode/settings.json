@@ -8,7 +8,8 @@
     "unordered_set": "cpp",
     "array": "cpp",
     "random": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "new": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
