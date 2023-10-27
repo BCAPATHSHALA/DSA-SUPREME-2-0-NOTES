@@ -758,7 +758,7 @@ CLASS NOTES: 26
 	2. Life cycle of an object
 	3. Destructor
 	4. Getter and setter method
-	5. Abstraction (One Pillars of OOPS)
+	5. Abstraction (One Pillar of OOPS)
 	5.1. Encapsulation
 	5.1.1 Perfect encapsulation
 	5.2 Inheritance
