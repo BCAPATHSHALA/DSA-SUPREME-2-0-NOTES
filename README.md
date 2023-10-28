@@ -712,6 +712,7 @@ CLASS HOMEWORK: 24
 	3. Number of Dice Rolls With Target Sum (Leetcode-1155)
 
 ```
+
 </details>
 
 <details>
@@ -730,7 +731,7 @@ CLASS NOTES: 25
 	8. Constructor
 	9. Polymorphism
 	10. This pointer
-	11. Stack and Heap memory allocation 
+	11. Stack and Heap memory allocation
 	(Static and Dynamic Allocation of memory)
 	12. Padding concept
 
@@ -745,8 +746,8 @@ CLASS HOMEWORK: 25
 		- Static member function
 
 ```
-</details>
 
+</details>
 
 <details>
   <summary>WEEK 09 TOPIC: Object Oriented Programming - Class 02</summary>
@@ -781,10 +782,24 @@ CLASS NOTES: 26
 CLASS HOMEWORK: 26
 	1. Shallow vs deep copy
 	2. Can constructor be made private
-	3. Virtual CTOR vs virtual DTOR
-	4. Abstraction in C++
-	5. Inline function
-	6. Friend keyword in C++
+	3. Friend keyword in C++
+```
+
+</details>
+
+<details>
+  <summary>WEEK 09 TOPIC: Object Oriented Programming - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 27
+	1. Run time polymorphism
+
+CLASS HOMEWORK: 27
+	1. Virtual CTOR vs virtual DTOR
+	2. Abstraction in C++
+	3. Inline function
 
 ```
+
 </details>
