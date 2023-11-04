@@ -803,3 +803,30 @@ CLASS HOMEWORK: 27
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 10 TOPIC: Linked List - Class 01</summary>
+
+```bash
+
+CLASS NOTES: 28
+	1. What is a linked list?
+	2. What is a node?
+	3. Visualisation of linked list
+	4. Why use of linked list?
+	5. Types of linked list
+	6. Create a node
+	7. Print linked list
+	8. Print the length of the linked list "Number of nodes"
+	9. Insertion operations
+		- Insert node at the head
+		- Insert node at the tail
+		- Insert at any position
+	10. Create a tail
+
+CLASS HOMEWORK: 28
+	1. Insert at any position with the help of only one pointer "PREVIOUS"
+
+```
+
+</details>
