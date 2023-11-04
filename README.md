@@ -814,7 +814,7 @@ CLASS NOTES: 28
 	2. What is a linked list?
 	3. Why use of linked list?
 	4. Types of linked list
-	5. Create link list and a node
+	5. Create a linked list and a node
 	6. Print linked list
 	7. Print the length of the linked list "Number of nodes"
 	8. Insertion operations
