@@ -810,19 +810,18 @@ CLASS HOMEWORK: 27
 ```bash
 
 CLASS NOTES: 28
-	1. What is a linked list?
-	2. What is a node?
-	3. Visualisation of linked list
-	4. Why use of linked list?
-	5. Types of linked list
-	6. Create a node
-	7. Print linked list
-	8. Print the length of the linked list "Number of nodes"
-	9. Insertion operations
+	1. What is a node?
+	2. What is a linked list?
+	3. Why use of linked list?
+	4. Types of linked list
+	5. Create link list and a node
+	6. Print linked list
+	7. Print the length of the linked list "Number of nodes"
+	8. Insertion operations
 		- Insert node at the head
 		- Insert node at the tail
 		- Insert at any position
-	10. Create a tail
+	9. Create a tail
 
 CLASS HOMEWORK: 28
 	1. Insert at any position with the help of only one pointer "PREVIOUS"
