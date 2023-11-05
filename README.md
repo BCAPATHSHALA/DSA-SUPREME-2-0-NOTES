@@ -817,7 +817,9 @@ CLASS NOTES: 28
 	5. Create a linked list and a node
 	6. Print linked list
 	7. Print the length of the linked list "Number of nodes"
-	8. Insertion operations
+	8. Insertion operations of SLL
+		- Print linked list
+		- Find length of linked list
 		- Insert node at the head
 		- Insert node at the tail
 		- Insert at any position
@@ -825,6 +827,35 @@ CLASS NOTES: 28
 
 CLASS HOMEWORK: 28
 	1. Insert at any position with the help of only one pointer "PREVIOUS"
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 10 TOPIC: Linked List - Class 02</summary>
+
+```bash
+
+CLASS NOTES: 29
+	1. Deletion operations of SLL
+		- Delete a node from the head
+		- Delete a node from the tail
+		- Delete a node from any position
+	2. Double linked list
+		- Print linked list
+		- Find length of linked list
+		- Insert node at the head
+		- Insert node at the tail
+		- Insert at any position
+	3. Deletion operations of DLL
+		- Delete a node from the head
+		- Delete a node from the tail
+		- Delete a node from any position
+
+
+CLASS HOMEWORK: 29
+	1. Circular linked list
 
 ```
 
