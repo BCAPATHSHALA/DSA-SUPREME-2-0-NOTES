@@ -853,9 +853,30 @@ CLASS NOTES: 29
 		- Delete a node from the tail
 		- Delete a node from any position
 
-
 CLASS HOMEWORK: 29
 	1. Circular linked list
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 10 TOPIC: Linked List - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 30
+	1. Reverse Linked List (Leetcode-206)
+		- Approach 1: Iterative approach
+		- Approach 2: Recursive approach
+	2. Middle of the Linked List (Leetcode-876)
+		- Approach 1: getLength and getMid
+		- Approach 2: Slow and fast pointer "Hare & Tortoise" algorithm
+	3. Palindrome Linked List (Leetcode-234)
+		- Approach 1: Optimal
+		- Approach 2: Brute force
+	4. Linked List Cycle (Leetcode-141)
+		- Approach 1: Using STL map
 
 ```
 
