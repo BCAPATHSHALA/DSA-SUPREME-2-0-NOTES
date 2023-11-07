@@ -872,11 +872,42 @@ CLASS NOTES: 30
 	2. Middle of the Linked List (Leetcode-876)
 		- Approach 1: getLength and getMid
 		- Approach 2: Slow and fast pointer "Hare & Tortoise" algorithm
+		- Reasoing : Why this algorithm work
 	3. Palindrome Linked List (Leetcode-234)
 		- Approach 1: Optimal
 		- Approach 2: Brute force
 	4. Linked List Cycle (Leetcode-141)
 		- Approach 1: Using STL map
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 10 TOPIC: Linked List - Class 04</summary>
+
+```bash
+
+CLASS NOTES: 31
+	1. Linked List Cycle (Leetcode-141)
+		- Approach 1: Fast and slow algorithm
+		- Reasoing : Why this algorithm work
+	2. Starting point of loop (Leetcode-142)
+		- Approach 1: Fast and slow algorithm
+		- Reasoing : Why this algorithm work
+	3. Remove loop (GFG)
+		- Approach 1: Fast and slow algorithm
+	4. Add 1 to a linked list (GFG)
+	5. Reverse Nodes in k-Group (Leetcode-25)
+		- Approach 1: Recursive approach
+	6. Remove Duplicates from Sorted List (Leetcode-83)
+
+CLASS HOMEWORK: 31
+	1. Add two linked list (Leetcode-442)
+	2. Sort 0, 1, 2 in linked list (GFG)
+	3. Sort linked list (Leetcode-148)
+	5. Quick Sort Algorithm is best for array or linked list?
+	7. Merge Sort Algorithm is best for array or linked list?
 
 ```
 
