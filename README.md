@@ -909,6 +909,18 @@ CLASS HOMEWORK: 31
 	5. Quick Sort Algorithm is best for array or linked list?
 	7. Merge Sort Algorithm is best for array or linked list?
 
+LINKED LIST ASSIGNMENTS: 31
+	1. Delete N Nodes after M Nodes
+	2. Merge Two Sorted Lists
+	3. Print kth Node from the End
+	4. Intersection of Two Linked Lists
+	5. Sort Lists using Merge Sort
+	6. Flatten Linked List
+	7. Copy List with Random Pointer
+	8. Rotate List
+	9. Find Minimum and Maximum Number of Nodes Between Critical Points
+	10. Merge Nodes in between Zeros
+
 ```
 
 </details>
