@@ -872,7 +872,7 @@ CLASS NOTES: 30
 	2. Middle of the Linked List (Leetcode-876)
 		- Approach 1: getLength and getMid
 		- Approach 2: Slow and fast pointer "Hare & Tortoise" algorithm
-		- Reasoing : Why this algorithm work
+		- Reasoning : Why this algorithm work
 	3. Palindrome Linked List (Leetcode-234)
 		- Approach 1: Optimal
 		- Approach 2: Brute force
@@ -889,12 +889,12 @@ CLASS NOTES: 30
 ```bash
 
 CLASS NOTES: 31
-	1. Linked List Cycle (Leetcode-141)
+	1. Linked List Cycle (Leetcode-141) 
 		- Approach 1: Fast and slow algorithm
-		- Reasoing : Why this algorithm work
+		- Reasoning : Why this algorithm work
 	2. Starting point of loop (Leetcode-142)
 		- Approach 1: Fast and slow algorithm
-		- Reasoing : Why this algorithm work
+		- Reasoning : Why this algorithm work
 	3. Remove loop (GFG)
 		- Approach 1: Fast and slow algorithm
 	4. Add 1 to a linked list (GFG)
