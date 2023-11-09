@@ -924,3 +924,33 @@ LINKED LIST ASSIGNMENTS: 31
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 11 TOPIC: Stack - Class 01</summary>
+
+```bash
+
+CLASS NOTES: 32
+	1. What is stack? 
+	2. Stack implementation using dynamic array
+	   - push() method
+	   - pop() method
+	   - isEmpty() method
+	   - getTop() method
+	   - getSize() method
+	   - Important corner cases: overflow and underflow 
+	3. Problem 1: Reverse string using stack
+	4. Problem 2: Middle element of a stack
+		- Approach 1: Recursion and backtracking
+	5. Problem 3: Insert at bottom of a stack
+		- Approach 1: Recursion and backtracking
+	6. Problem 4: Reverse a stack
+		- Approach 1: Recursion and backtracking
+	7. Problem 5: Insert in a sorted stack
+		- Approach 1: Recursion and backtracking
+	8. Problem 6: Sort a stack
+		- Approach 1: Recursion and backtracking
+
+```
+
+</details>
