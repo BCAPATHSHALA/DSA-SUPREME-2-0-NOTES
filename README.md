@@ -889,7 +889,7 @@ CLASS NOTES: 30
 ```bash
 
 CLASS NOTES: 31
-	1. Linked List Cycle (Leetcode-141) 
+	1. Linked List Cycle (Leetcode-141)
 		- Approach 1: Fast and slow algorithm
 		- Reasoning : Why this algorithm work
 	2. Starting point of loop (Leetcode-142)
@@ -903,23 +903,20 @@ CLASS NOTES: 31
 	6. Remove Duplicates from Sorted List (Leetcode-83)
 
 CLASS HOMEWORK: 31
-	1. Add two linked list (Leetcode-442)
-	2. Sort 0, 1, 2 in linked list (GFG)
-	3. Sort linked list (Leetcode-148)
-	5. Quick Sort Algorithm is best for array or linked list?
-	7. Merge Sort Algorithm is best for array or linked list?
-
-LINKED LIST ASSIGNMENTS: 31
-	1. Delete N Nodes after M Nodes
-	2. Merge Two Sorted Lists
-	3. Print kth Node from the End
-	4. Intersection of Two Linked Lists
-	5. Sort Lists using Merge Sort
+	1. Merge Two Sorted Lists (Leetcode-21)
+	2. Sort Lists using Merge Sort (Leetcode-148)
+	3. Delete N Nodes after M Nodes
+	4. Print kth Node from the End
+	5. Intersection of Two Linked Lists
 	6. Flatten Linked List
 	7. Copy List with Random Pointer
 	8. Rotate List
 	9. Find Minimum and Maximum Number of Nodes Between Critical Points
 	10. Merge Nodes in between Zeros
+	11. Add two linked list (Leetcode-442)
+	12. Sort 0, 1, 2 in linked list (GFG)
+	13. ARTICLE: Quick Sort Algorithm is best for array or linked list?
+	14. ARTICLE: Merge Sort Algorithm is best for array or linked list?
 
 ```
 
@@ -931,14 +928,14 @@ LINKED LIST ASSIGNMENTS: 31
 ```bash
 
 CLASS NOTES: 32
-	1. What is stack? 
+	1. What is stack?
 	2. Stack implementation using dynamic array
 	   - push() method
 	   - pop() method
 	   - isEmpty() method
 	   - getTop() method
 	   - getSize() method
-	   - Important corner cases: overflow and underflow 
+	   - Important corner cases: overflow and underflow
 	3. Problem 1: Reverse string using stack
 	4. Problem 2: Middle element of a stack
 		- Approach 1: Recursion and backtracking
