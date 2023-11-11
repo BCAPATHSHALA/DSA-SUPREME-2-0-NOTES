@@ -951,3 +951,17 @@ CLASS NOTES: 32
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 11 TOPIC: Stack - Class 02</summary>
+
+```bash
+
+CLASS NOTES: 33
+	1. Problem 1: Implementation of Two Stack in an Array
+	2. Problem 2: Valid Parentheses (Leetcode-20)
+	3. Problem 3: Remove Redundant Brackets
+
+```
+
+</details>
