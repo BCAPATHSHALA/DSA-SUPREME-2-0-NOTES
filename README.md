@@ -905,9 +905,9 @@ CLASS NOTES: 31
 CLASS HOMEWORK: 31
 	1. Merge Two Sorted Lists (Leetcode-21)
 	2. Sort Lists using Merge Sort (Leetcode-148)
-	3. Delete N Nodes after M Nodes
-	4. Print kth Node from the End
-	5. Intersection of Two Linked Lists
+	3. Intersection of Two Linked Lists (Leetcode-160)
+	4. Delete N Nodes after M Nodes
+	5. Print kth Node from the End
 	6. Flatten Linked List
 	7. Copy List with Random Pointer
 	8. Rotate List
