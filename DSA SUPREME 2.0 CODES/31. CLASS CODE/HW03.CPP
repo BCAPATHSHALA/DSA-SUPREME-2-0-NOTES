@@ -22,7 +22,7 @@ The judge will then create the linked structure based on these inputs and pass t
 headA and headB to your program. If you correctly return the intersected node, then your solution will be accepted.
 
 Time complexity: O(N)
-Space complexity: O(N)
+Space complexity: O(1)
 */
 
 
