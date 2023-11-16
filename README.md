@@ -965,3 +965,22 @@ CLASS NOTES: 33
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 11 TOPIC: Stack - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 34
+	Problem 1: Implement a minStack (Leetcode-155)
+	Problem 2: Next smaller element
+	Problem 3: Prev smaller element
+	Problem 4: Largest Rectangle Area in Histogram (Leectcode-84)
+
+CLASS HOMEWORK: 34
+	Problem 1: Final Prices With a Special Discount in a Shop (Leetcode-1475)
+	Problem 2: Longest Valid Parentheses (Leetcode-32)
+
+```
+
+</details>
