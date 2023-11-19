@@ -908,7 +908,7 @@ CLASS HOMEWORK: 31
 	3. Intersection of Two Linked Lists (Leetcode-160)
 	4. Delete N Nodes after M Nodes (GFG)
 	5. Print kth Node from the End (Hackerrank)
-	6. Flatten Linked List
+	6. Flatten Linked List (GFG)
 	7. Copy List with Random Pointer
 	8. Rotate List
 	9. Find Minimum and Maximum Number of Nodes Between Critical Points
