@@ -910,7 +910,7 @@ CLASS HOMEWORK: 31
 	5. Print kth Node from the End (Hackerrank)
 	6. Flatten Linked List (GFG)
 	7. Copy List with Random Pointer (Leetcode-138)
-	8. Rotate List
+	8. Rotate List (Leetcode-61)
 	9. Find Minimum and Maximum Number of Nodes Between Critical Points
 	10. Merge Nodes in between Zeros
 	11. Add two linked list (Leetcode-442)
