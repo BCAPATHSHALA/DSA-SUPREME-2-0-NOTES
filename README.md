@@ -1001,3 +1001,18 @@ CLASS HOMEWORK: 34
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 12 TOPIC: Queue - Class 01</summary>
+
+```bash
+
+CLASS NOTES: 35
+	1. What is Queue and STL Queue
+	2. Queue Implementation using a Dynamic Array
+	3. Circular Queue Implementation
+	4. Circular Doble Ended Queue Implementation
+
+```
+
+</details>
