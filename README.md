@@ -1016,3 +1016,18 @@ CLASS NOTES: 35
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 12 TOPIC: Queue - Class 02</summary>
+
+```bash
+
+CLASS NOTES: 36
+	1. Reverse a queue
+	2. Reverse 'k' element in a queue ⭐
+	3. Interleave first and second half of a queue
+	4. First negative integer in every window of 'k' ⭐
+
+```
+
+</details>
