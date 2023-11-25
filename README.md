@@ -1027,6 +1027,7 @@ CLASS NOTES: 36
 	2. Reverse 'k' element in a queue ⭐
 	3. Interleave first and second half of a queue
 	4. First negative integer in every window of 'k' ⭐
+	5. Sliding Window Maximum (Leetcode-239)
 
 ```
 
