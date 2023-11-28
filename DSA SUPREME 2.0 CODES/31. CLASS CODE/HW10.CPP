@@ -1,5 +1,8 @@
 // HW 10: Find Minimum and Maximum Number of Nodes Between Critical Points (Leetcode-2048)
 
+// Time complexity: O(N), Where N is number of nodes of the linked list
+// Space complexity: O(1), no extra space used
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {

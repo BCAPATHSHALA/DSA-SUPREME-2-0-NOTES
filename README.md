@@ -912,8 +912,8 @@ CLASS HOMEWORK: 31
 	7. Copy List with Random Pointer (Leetcode-138)
 	8. Rotate List (Leetcode-61)
 	9. Odd Even Linked List (Leetcode-328)
-	10. Find Minimum and Maximum Number of Nodes Between Critical Points (Leetcode-2048) 
-	11. Merge Nodes in between Zeros
+	10. Find Minimum and Maximum Number of Nodes Between Critical Points (Leetcode-2048)
+	11. Merge Nodes in between Zeros (Leetcode-2181)
 	12. Add two linked list (Leetcode-442)
 	13. Sort 0, 1, 2 in linked list (GFG)
 	14. ARTICLE: Quick Sort Algorithm is best for array or linked list?
