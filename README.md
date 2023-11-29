@@ -1028,7 +1028,19 @@ CLASS NOTES: 36
 	2. Reverse 'k' element in a queue ⭐
 	3. Interleave first and second half of a queue
 	4. First negative integer in every window of 'k' ⭐
-	5. Sliding Window Maximum (Leetcode-239)
+
+```
+
+</details>
+<details>
+  <summary>WEEK 12 TOPIC: Queue - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 37
+	1. First Non Repeating/Unique Character in a String (Leetcode-387)
+	2. Gas Station (Leetcode-134)
+	3. Sliding Window Maximum (Leetcode-239)
 
 ```
 
