@@ -1032,6 +1032,7 @@ CLASS NOTES: 36
 ```
 
 </details>
+
 <details>
   <summary>WEEK 12 TOPIC: Queue - Class 03</summary>
 
@@ -1041,6 +1042,30 @@ CLASS NOTES: 37
 	1. First Non Repeating/Unique Character in a String (Leetcode-387)
 	2. Gas Station (Leetcode-134)
 	3. Sliding Window Maximum (Leetcode-239)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 13 TOPIC: Binary Tree - Class 01</summary>
+
+```bash
+CLASS NOTES: 38
+	1. What is a binary tree
+	2. Terms of binary tree
+	3. Implementation of binary tree
+	4. Binary tree travesels
+		I. Pre-order traversal
+		II. In order travesel
+		III. Post order travesel
+	5. Level order traversal in a line
+	6. Level order traversal in level wise
+	7. Height of a binary tree (Leetcode-104)
+	8. Diameter of binary tree (Leetcode-543)
+
+HOMEWORK NOTES: 38
+	1. Generics tree
 
 ```
 
