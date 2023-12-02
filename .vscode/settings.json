@@ -9,7 +9,8 @@
     "array": "cpp",
     "random": "cpp",
     "vector": "cpp",
-    "new": "cpp"
+    "new": "cpp",
+    "future": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }

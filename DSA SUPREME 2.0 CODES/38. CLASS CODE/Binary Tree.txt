@@ -1,0 +1,52 @@
+1. What is Binary Tree?
+    ■ Binary tree is non linear data structure
+    ■ Binary tree is combination of nodes
+    ■ Binary tree have at most 2 node
+
+2. Terms of binary tree
+    ■ Root Node (Starting Node)
+    ■ Parent Node
+    ■ Child Node
+    ■ Leaf Node
+    ■ Ancestor Node
+    ■ Level
+    ■ Edge
+    ■ Descendant
+    ■ Neighbour
+    ■ Sibling
+    ■ Subtree
+
+
+■ Root Node (Starting Node):
+The topmost node in a binary tree.
+It is the starting point for traversing the tree.
+
+■ Parent Node:
+A node in a tree that has one or more child nodes connected to it.
+
+■ Child Node:
+A node in a tree that has a parent node and can have zero or more child nodes.
+
+■ Leaf Node:
+A node in a tree that has no children, i.e., it is at the end of a branch.
+
+■ Ancestor Node:
+Any node on the path from the root node to a particular node, excluding the node itself.
+
+■ Level:
+The depth or distance of a node from the root node. The root node is at level 0.
+
+■ Edge:
+The connection or link between a parent node and a child node.
+
+■ Descendant:
+Any node on the path from a particular node to its leaves, excluding the node itself.
+
+■ Neighbour:
+Nodes that share the same parent in a binary tree.
+
+■ Sibling:
+Nodes that share the same parent in a binary tree; they are also each other's siblings.
+
+■ Subtree:
+A tree formed by a node and its descendants in a larger tree.
