@@ -1088,3 +1088,22 @@ HOMEWORK NOTES: 38
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 13 TOPIC: Binary Tree - Class 02</summary>
+
+```bash
+CLASS NOTES: 39
+	1. Balanced Binary Tree (Leetcode-110)
+	2. Lowest Common Ancestor of a Binary Tree (Leetcode-236)
+	3. Path Sum (Leetcode-112)
+	4. Path Sum II (Leetcode-113)
+	5. Construct Binary Tree from Inorder and Preorder Traversal (Leetcode-105)
+	6. Construct Binary Tree from Inorder and Postorder Traversal (Leetcode-106)
+
+HOMEWORK NOTES: 39
+	1. K-th ancestor of a node in Binary Tree (GFG)
+
+```
+
+</details>
