@@ -1098,8 +1098,9 @@ CLASS NOTES: 39
 	2. Lowest Common Ancestor of a Binary Tree (Leetcode-236)
 	3. Path Sum (Leetcode-112)
 	4. Path Sum II (Leetcode-113)
-	5. Construct Binary Tree from Inorder and Preorder Traversal (Leetcode-105)
-	6. Construct Binary Tree from Inorder and Postorder Traversal (Leetcode-106)
+	5. K-th ancestor of a node in Binary Tree (GFG)
+	6. Construct Binary Tree from Inorder and Preorder Traversal (Leetcode-105)
+	7. Construct Binary Tree from Inorder and Postorder Traversal (Leetcode-106)
 
 HOMEWORK NOTES: 39
 	1. K-th ancestor of a node in Binary Tree (GFG)
