@@ -1108,3 +1108,20 @@ HOMEWORK NOTES: 39
 ```
 
 </details>
+<details>
+  <summary>WEEK 13 TOPIC: Binary Tree - Class 03</summary>
+
+```bash
+CLASS NOTES: 40
+	1. Left view of binary tree
+	2. Right view of binary tree
+	3. Top view of binary tree
+	4. Bottom view of binary tree
+	5. Boundary traversal of binary tree
+
+HOMEWORK NOTES: 40
+	1. Left view of binary tree using level order traversal
+
+```
+
+</details>
