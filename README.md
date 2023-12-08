@@ -1108,6 +1108,7 @@ HOMEWORK NOTES: 39
 ```
 
 </details>
+
 <details>
   <summary>WEEK 13 TOPIC: Binary Tree - Class 03</summary>
 
@@ -1136,6 +1137,22 @@ HOMEWORK NOTES: 40
 	14. Burning Tree
 	15. Find Duplicate Sumtrees
 	16. Left view of binary tree using level order traversal
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 14 TOPIC: Binary Search Tree - Class 01</summary>
+
+```bash
+CLASS NOTES: 41
+	1. What is binary search tree
+	2. Create binary search tree
+	3. Traversals of binary search tree
+	4. Min and Max value in BST
+	5. Target value present or not in BST
+	6. Delete node from BST
 
 ```
 
