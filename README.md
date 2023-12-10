@@ -1157,3 +1157,18 @@ CLASS NOTES: 41
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 14 TOPIC: Binary Search Tree - Class 02</summary>
+
+```bash
+CLASS NOTES: 42
+	1. Construct BST from Inorder (GFG)
+	2. Validate BST (Leetcode-98)
+	3. Lowest Common Ancestor of a BST (Leetcode-235)
+	4. Kth Smallest Element in a BST (Leetcode-230)
+	5. Two Sum IV - Input is a BST (Leetcode-653)
+
+```
+
+</details>
