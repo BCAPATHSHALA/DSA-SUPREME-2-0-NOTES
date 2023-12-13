@@ -1172,3 +1172,15 @@ CLASS NOTES: 42
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 14 TOPIC: Binary Search Tree - Class 03</summary>
+
+```bash
+CLASS NOTES: 43
+	1. Convert BST into Sorted Double Linked List (IMP-QUESTION-INTERVIEW)
+	2. Convert Sorted Double Linked List into BST (IMP-QUESTION-INTERVIEW)
+
+```
+
+</details>
