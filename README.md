@@ -1184,3 +1184,20 @@ CLASS NOTES: 43
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 01</summary>
+
+```bash
+CLASS NOTES: 44
+	1. What is heap?
+	2. Min and Max heap
+	3. Insertion to heap
+	4. Deletion from heap
+	5. Heapify using recursion
+	6. Convert array to heap
+	7. Heap sort
+
+```
+
+</details>
