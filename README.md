@@ -1215,3 +1215,20 @@ CLASS NOTES: 44
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 02</summary>
+
+```bash
+CLASS NOTES: 45
+	1. C++ STL Priority Queue "MAX HEAP"
+	2. C++ STL Priority Queue "MIN HEAP"
+	3. Kth Smallest Element in an Array using Max Heap (GFG)
+	4. Kth Largest Element in an Array using Min Heap (GFG)
+	5. Check if a given Complete Binary Tree is a Max Heap or not? (GFG)
+	6. Check Whether a Binary Tree is a Complete Binary Tree or Not? (Leetcode-958)
+	7. Convert Given Combination of CBT and BST into a Valid Max Heap (GFG)
+
+```
+
+</details>
