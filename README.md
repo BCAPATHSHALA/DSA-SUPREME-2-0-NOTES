@@ -1181,6 +1181,20 @@ CLASS NOTES: 43
 	1. Convert BST into Sorted Double Linked List (IMP-QUESTION-INTERVIEW)
 	2. Convert Sorted Double Linked List into BST (IMP-QUESTION-INTERVIEW)
 
+HOMEWORK NOTES: 43
+	1. Inorder Successor in BST
+	2. Inorder Predecessor in BST
+	3. Build BST using Preorder Traversal
+	4. Brothers from Different roots
+	5. Convert BST to a Balanced BST
+	6. Find the Median of BST
+	7. Check BST has Dead End
+	8. Count BST Nodes lying in a Range
+	9. Flatten BST to Sorted LL
+	10. Replace elements with the least Greater elements to it Right
+	11. Valid BST from Preorder
+	12. Merge two BSTs
+
 ```
 
 </details>
