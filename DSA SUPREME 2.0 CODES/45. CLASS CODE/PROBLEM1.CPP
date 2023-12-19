@@ -53,4 +53,6 @@ size()	    O(1)	            O(1)
 top()	    O(1)	            O(1)
 push()	    O(logN)	            O(1)
 pop()	    O(logN)	            O(1)
+
+Resource: https://en.cppreference.com/w/cpp/container/priority_queue
 */

@@ -77,7 +77,7 @@ class Heap
                 }
                 // Check right index
                 if(rightIndex <= size && arr[largestIndex] < arr[rightIndex]){
-                    largestIndex = leftIndex;
+                    largestIndex = rightIndex;
                 }
                 // No changes in index -> loop break krdo
                 if(index == largestIndex){
