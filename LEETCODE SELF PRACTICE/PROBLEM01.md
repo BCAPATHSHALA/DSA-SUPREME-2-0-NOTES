@@ -2,6 +2,8 @@ DATE: 23-12-2023
 
 ## Problem 1: [Merge Sorted Array (Leetcode-88)](https://leetcode.com/problems/merge-sorted-array/)
 
+[DOWNLOAD PDF NOTES](https://drive.google.com/drive/u/1/folders/1V1lszXbUO97guTtDgW8AWcIkryRB2uW9)
+
 You are given two integer arrays `nums1` and `nums2`, sorted in non-decreasing order, and two integers `m` and `n`, representing the number of elements in `nums1` and `nums2` respectively.
 
 Merge `nums1` and `nums2` into a single array sorted in non-decreasing order.
