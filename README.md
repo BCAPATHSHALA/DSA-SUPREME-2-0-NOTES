@@ -1232,3 +1232,16 @@ CLASS NOTES: 45
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 03</summary>
+
+```bash
+CLASS NOTES: 46
+	1. Merge K Sorted Arrays (GFG)
+	2. Merge K Sorted Linked Lists (Leetcode-23)
+	3. Smallest Sorted Range in K Lists (Leetcode-632)
+
+```
+
+</details>
