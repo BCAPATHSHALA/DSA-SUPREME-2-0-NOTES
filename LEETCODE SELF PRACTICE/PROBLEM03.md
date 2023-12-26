@@ -1,6 +1,6 @@
 DATE: 25-12-2023
 
-## Problem 3: [Length of Last Word (Leetcode-58))](https://leetcode.com/problems/length-of-last-word/)
+## Problem 3: [Length of Last Word (Leetcode-58)](https://leetcode.com/problems/length-of-last-word/)
 
 [DOWNLOAD PDF NOTES](https://drive.google.com/drive/u/1/folders/1V1lszXbUO97guTtDgW8AWcIkryRB2uW9)
 

@@ -1240,7 +1240,7 @@ CLASS NOTES: 45
 CLASS NOTES: 46
 	1. Merge K Sorted Arrays (GFG)
 	2. Merge K Sorted Linked Lists (Leetcode-23)
-	3. Smallest Sorted Range in K Lists (Leetcode-632)
+	3. Smallest Range in K Lists (Leetcode-632)
 
 ```
 
