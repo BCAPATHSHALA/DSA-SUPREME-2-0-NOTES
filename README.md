@@ -1245,3 +1245,17 @@ CLASS NOTES: 46
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 04</summary>
+
+```bash
+CLASS NOTES: 47
+	1. Remove Stones to Minimize the Total (Leetcode-1962)
+	2. Reorganize String (Leetcode-767)
+	3. Longest Happy String (Leetcode-1405)
+	4. Median in a Stream (CodingNinjas)
+
+```
+
+</details>
