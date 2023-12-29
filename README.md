@@ -1259,3 +1259,30 @@ CLASS NOTES: 47
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 16 TOPIC: Hashmaps & Tries - Class 01</summary>
+
+```bash
+CLASS NOTES: 48
+	1. What is Maps?
+	2. C++ STL Maps Type
+	3. Implement C++ STL Unordered Map
+	4. Hash Function
+		- Hash Code
+		- Compression Function
+		- Collision
+		- Handle Collision Techniques
+			a. Open Hashing
+			b. Closed addressing
+				I. Linear Probing
+				II. Quadratic Probing
+		- How and Why the Time Complexity of Insertion, Deletion, and Searching is O(1)
+		- Load Factor
+	5. Basic problems on maps
+		PROBLEM 1: Store all character frequency of a string
+		PROBLEM 2: Reorganize String (Leetcode-767)
+		PROBLEM 3: Linked List Cycle (Leetcode-141)
+```
+
+</details>
