@@ -1,6 +1,6 @@
 DATE: 25-12-2023
 
-## Problem 4: [Valid Palindrome (Leetcode-125))](https://leetcode.com/problems/valid-palindrome/)
+## Problem 4: [Valid Palindrome (Leetcode-125)](https://leetcode.com/problems/valid-palindrome/)
 
 [DOWNLOAD PDF NOTES](https://drive.google.com/drive/u/1/folders/1V1lszXbUO97guTtDgW8AWcIkryRB2uW9)
 
