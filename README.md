@@ -1256,6 +1256,15 @@ CLASS NOTES: 47
 	3. Longest Happy String (Leetcode-1405)
 	4. Median in a Stream (CodingNinjas)
 
+HOMEWORK NOTES: 47
+	1. Check If Binary Tree is Heap
+	2. Merge Two Binary Max Heap
+	3. K-Closest points to the origin
+	4. Get Biggest Three Rhombus Sums In A Grid
+	5. Minimum Difference in Sums After Removal of Elements
+	6. Minimum Number of Refueling Stops
+	7. Sliding Window Maximum
+
 ```
 
 </details>
