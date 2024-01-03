@@ -1295,3 +1295,22 @@ CLASS NOTES: 48
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 16 TOPIC: Hashmaps & Tries - Class 02</summary>
+
+```bash
+CLASS NOTES: 49
+	1. What is Trie?
+	2. How to organize the data in trie?
+	3. Create Trie Node
+	4. Insertion Method of Trie
+	5. Searching Method of Trie
+	6. Deletion Method of Trie
+
+HOMEWORK NOTES: 49
+	1. Print All Words of Given Prefix String
+
+```
+
+</details>
