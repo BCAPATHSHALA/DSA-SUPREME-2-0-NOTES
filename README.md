@@ -1314,3 +1314,15 @@ HOMEWORK NOTES: 49
 ```
 
 </details>
+<details>
+  <summary>WEEK 16 TOPIC: Hashmaps & Tries - Class 03</summary>
+
+```bash
+CLASS NOTES: 50
+	1. Print All Words of Given Prefix String - I
+	2. Print All Words of Given Prefix String - II
+	3. Longest Common Prefix (Leetcode-14)
+
+```
+
+</details>

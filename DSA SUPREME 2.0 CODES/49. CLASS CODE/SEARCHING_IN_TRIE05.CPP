@@ -1,4 +1,4 @@
-// 4. Insertion Method of Trie
+// 5. Searching Method of Trie
 #include<iostream>
 using namespace std;
 
