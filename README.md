@@ -1314,6 +1314,7 @@ HOMEWORK NOTES: 49
 ```
 
 </details>
+
 <details>
   <summary>WEEK 16 TOPIC: Hashmaps & Tries - Class 03</summary>
 
@@ -1322,6 +1323,25 @@ CLASS NOTES: 50
 	1. Print All Words of Given Prefix String - I
 	2. Print All Words of Given Prefix String - II
 	3. Longest Common Prefix (Leetcode-14)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 01</summary>
+
+```bash
+CLASS NOTES: 51
+	1. What is Dynamic Programming?
+	2. Where to Use Dynamic Programming?
+	3. Three Approach for DP
+		I. Top Down Approach (Memoization)
+		II. Bottom-up Approach (Tabulation)
+		III. Patterns Approach (Space Optimization)
+	4. Fibonacci (Leetcode-509)
+	5. Cut Segment (GFG)
+	6. What is 1DP and 2DP?
 
 ```
 
