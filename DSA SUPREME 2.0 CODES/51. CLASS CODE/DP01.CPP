@@ -28,4 +28,16 @@ Step 3: fill the remaining DP array according to recursion formula/logic
 
 III. Patterns Approach (Space Optimization)
 Yanha space optimization karte hai according jab koi pattern ban rha ho
+
+📂 What is 1DP and 2DP?
+
+1DP (One Dynamic Programming):
+This could mean a single dynamic programming approach or a one-dimensional dynamic programming array. 
+In dynamic programming, a one-dimensional array is often used to store intermediate results to avoid 
+redundant computations and improve the efficiency of an algorithm.
+
+2DP (Two Dynamic Programming):
+This likely refers to a two-dimensional dynamic programming approach, where a two-dimensional array 
+is used to store intermediate results. This is common in problems where there are two varying parameters 
+or dimensions that need to be considered in the dynamic programming solution.
 */
