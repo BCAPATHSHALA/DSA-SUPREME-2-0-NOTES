@@ -41,6 +41,7 @@ public:
         }
 
         // Step 2: store ans max amount and return ans using DP array
+        // TOP DOWN: Traverse from 0 to N
         int include = nums[index] + solveUsingMemo(nums, index+2, dp);
         int exclude = 0 + solveUsingMemo(nums, index+1, dp);        
         dp[index] = max(include, exclude);
@@ -67,6 +68,7 @@ public:
         dp[n-1] = nums[n-1];
 
         // Step 3: fill the remaining DP array according to recursion formula/logic
+        // BOTTOM UP: Traverse from N to 0
         for(int index = n - 2; index >= 0; index--){
             int tempAns = 0;
             if(index + 2 < n){
