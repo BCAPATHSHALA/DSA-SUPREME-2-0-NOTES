@@ -1370,3 +1370,61 @@ CLASS NOTES: 53
 ```
 
 </details>
+s
+<details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Assignments</summary>
+
+```bash
+CLASS ASSIGNMENTS:
+	1. Perfect Squares Leetcode
+	2. Minimum Cost for Tickets Leetcode
+	3. Minimum ASCII Delete Sum for 2 Strings Leetcode
+	4. Longest Palindromic SubString Leetcode
+	5. Distinct Subsequences Leetcode
+	6. Word Break Leetcode
+	7. Word Break-2 Leetcode
+	8. Unique BST-2 Leetcode
+	9. House Robber-3 Leetcode
+	10. Unique BST-2 Leetcode
+	11. Stone Game
+	12. Stone Game-2
+	13. Stone Game-3
+	14. Burst balloons Leetcode
+	15. Interleaving Strings Leetcode
+	16. Minimum Insertion Steps to Make a String Palindrome
+	17. Russian Doll Envelopes Leetcode
+	18. Minimum Number of Removals to Make Mountain Array
+	19. Make Array Strictly Increasing
+	20. Best Time To Buy & Sell Stock - Already Taught in Recursion Week
+	21. Best Time To Buy & Sell Stock-2
+	22. Best Time To Buy & Sell Stock-3
+	23. Best Time To Buy & Sell Stock-4
+	24. Best Time To Buy & Sell Stock-5
+	25. Target Sum Leetcode
+	26. Ones and Zeroes Leetcode
+	27. Minimum Swaps To Make Sequences Increasing
+	28. Reducing Dishes Leetcode
+	29. Predict the Winner Leetcode
+
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 20 TOPIC: Graphs - Assignments</summary>
+
+```bash
+CLASS ASSIGNMENTS:
+	1. Prim’s Algorithm for MST
+	2. Kruskals Algorithm for MST
+	3. Eventual Safe States
+	4. Word Ladder-2
+	5. Minimum Multiplications to reach End
+	6. Number of Operations to Make Network Connected
+	7. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+	8. Accounts Merge
+
+```
+
+</details>
