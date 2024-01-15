@@ -1370,7 +1370,20 @@ CLASS NOTES: 53
 ```
 
 </details>
-s
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 04</summary>
+
+```bash
+CLASS NOTES: 54
+	1. Longest Common Subsequence (Leetcode-1143)
+	2. Longest Palindrome Subsequence (Leetcode-516)
+	3. Edit Distance (Leetcode-72)
+
+```
+
+</details>
+
 <details>
   <summary>WEEK 18 TOPIC: Dynamic Programming - Assignments</summary>
 
