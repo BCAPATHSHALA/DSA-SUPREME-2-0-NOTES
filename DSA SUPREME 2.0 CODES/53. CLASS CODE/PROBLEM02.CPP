@@ -149,3 +149,78 @@ int main(){
     cout << "Max Profit: " << ans << endl;
     return 0;
 }
+
+
+// ================== Approach 4: Space Optimization Approach ================== //
+#include<iostream>
+#include<vector>
+using namespace std;
+
+int solveUsingTabuSO(int capacity, int weight[], int profit[], int index, int n){
+    vector<int> next(capacity+1, 0);
+    vector<int> curr(capacity+1, -1);
+
+    for(int col=n-1; col>=0; col--){
+        for(int row=0; row<=capacity; row++){
+            // Recursive relation (Inclusion or exclusion)
+            int include = 0;
+            if(weight[col] <= row){
+                include = profit[col] + next[row - weight[col]];
+            }
+            int exclude = 0 + next[row];
+            curr[row] = max(include, exclude);
+        }
+        // Shift Karna Bhool Jata hu
+        next = curr;
+    }
+    // return ans    
+    return curr[capacity];
+}
+
+int main(){
+    int capacity = 50;
+    int n = 3;
+    int weight[] = {10, 20, 30};
+    int profit[] = {60, 100, 120};
+    int index = 0;
+
+    int ans = solveUsingTabuSO(capacity, weight, profit, index, n);
+    cout << "Max Profit: " << ans << endl;
+    return 0;
+}
+
+// ================== Approach 5: Space Optimization Approach 2 ================== //
+#include<iostream>
+#include<vector>
+using namespace std;
+
+int solveUsingTabuSO2(int capacity, int weight[], int profit[], int index, int n){
+    vector<int> next(capacity+1, 0);
+
+    for(int col=n-1; col>=0; col--){
+        for(int row=capacity; row>=0; row--){
+            // Recursive relation (Inclusion or exclusion)
+            int include = 0;
+            if(weight[col] <= row){
+                include = profit[col] + next[row - weight[col]];
+            }
+            int exclude = 0 + next[row];
+            next[row] = max(include, exclude);
+        }
+    }
+    // return ans    
+    return next[capacity];
+}
+
+int main(){
+    int capacity = 50;
+    int n = 3;
+    int weight[] = {10, 20, 30};
+    int profit[] = {60, 100, 120};
+    int index = 0;
+
+    int ans = solveUsingTabuSO2(capacity, weight, profit, index, n);
+    cout << "Max Profit: " << ans << endl;
+    return 0;
+}
+
