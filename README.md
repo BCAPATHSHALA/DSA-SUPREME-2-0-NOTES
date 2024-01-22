@@ -1385,6 +1385,20 @@ CLASS NOTES: 54
 </details>
 
 <details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Class 05</summary>
+
+```bash
+CLASS NOTES: 55
+	1. Longest Increasing Subsequence (Leetcode-300)
+	2. Maximum Height by Stacking Cuboids (Leetcode-1691)
+	3. Russian Doll Envelopes (Leetcode-354)
+	4. Longest Common Subsequence (Leetcode-1143)
+
+```
+
+</details>
+
+<details>
   <summary>WEEK 18 TOPIC: Dynamic Programming - Assignments</summary>
 
 ```bash
