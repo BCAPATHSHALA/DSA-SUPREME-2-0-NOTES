@@ -26,8 +26,8 @@ Output: 0
 Explanation: There is no such common subsequence, so the result is 0.
 
 Constraints:
-1 <= text1.length, text2.length <= 1000
-text1 and text2 consist of only lowercase English characters.
+1. 1 <= text1.length, text2.length <= 1000
+2. text1 and text2 consist of only lowercase English characters.
 */
 
 
@@ -178,6 +178,43 @@ public:
         int i = 0;
         int j = 0;
         int ans = solveUsingTabuOS(text1, text2, i, j);
+        return ans;
+    }
+};
+
+
+// ================== Approach 4: Space Optimization Approach (Without Changing Loop) ================== //
+
+class Solution {
+public:
+        int solveUsingTabuOSNoChangingLoop(string &a, string &b, int i, int j) {
+        vector<int> curr (b.length()+1, 0);
+        vector<int> next (b.length()+1, 0);
+
+        for(int i = a.length()-1; i >= 0; i--){
+            for(int j = b.length()-1; j >= 0; j--){
+                // Recursive call
+                int ans = 0;
+                if(a[i] == b[j]) {
+                    // Does match the subsequence character
+                    ans = 1 + next[j+1];
+                }
+                else {
+                    // Does not match the subsequence character
+                    ans = 0 + max(curr[j+1], next[j]);
+                }
+                curr[j] = ans;
+            }
+            // shifting
+            next = curr;
+        }
+        return next[0];
+    }
+
+    int longestCommonSubsequence(string text1, string text2) {
+        int i = 0;
+        int j = 0;
+        int ans = solveUsingTabuOSNoChangingLoop(text1, text2, i, j);
         return ans;
     }
 };

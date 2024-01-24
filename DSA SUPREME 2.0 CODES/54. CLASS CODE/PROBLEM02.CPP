@@ -18,8 +18,8 @@ Output: 2
 Explanation: One possible longest palindromic subsequence is "bb".
 
 Constraints:
-1 <= s.length <= 1000
-s consists only of lowercase English letters.
+1. 1 <= s.length <= 1000
+2. s consists only of lowercase English letters.
 */
 
 //! Note: Other 3 remaining approaches are same as problem01
