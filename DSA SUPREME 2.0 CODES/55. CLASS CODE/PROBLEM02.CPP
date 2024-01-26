@@ -41,9 +41,13 @@ Constraints:
 3. 1 <= widthi, lengthi, heighti <= 100
 */
 
+// ================== Approach 4: Space Optimization Approach ================== //
+
 class Solution {
 public:
     bool check(vector<int> curr , vector<int> prev){
+        // Curr - bade wale dibbe ko represent krta hai
+        // Prev - chotte wale dibbe ko represent krta hai
         if(curr[0] >= prev[0] && curr[1] >= prev[1] && curr[2] >= prev[2]){
             return true;
         }
