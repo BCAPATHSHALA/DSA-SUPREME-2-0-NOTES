@@ -1399,6 +1399,18 @@ CLASS NOTES: 55
 </details>
 
 <details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Class 06</summary>
+
+```bash
+CLASS NOTES: 56
+	1. Guess Number Higher or Lower II (Leetcode-375)
+	2. Minimum Cost Tree From Leaf Values (Leetcode-1130)
+
+```
+
+</details>
+
+<details>
   <summary>WEEK 18 TOPIC: Dynamic Programming - Assignments</summary>
 
 ```bash
