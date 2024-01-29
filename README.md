@@ -1411,6 +1411,18 @@ CLASS NOTES: 56
 </details>
 
 <details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Class 07</summary>
+
+```bash
+CLASS NOTES: 57
+	1. Partition Equal Subset Sum (Leetcode-416)
+	2. Number of Dice Rolls With Target Sum (Leetcode-1155)
+
+```
+
+</details>
+
+<details>
   <summary>WEEK 18 TOPIC: Dynamic Programming - Assignments</summary>
 
 ```bash
