@@ -156,3 +156,49 @@ public:
         return ans;
     }
 };
+
+// ================== Approach 4: Space Optimization Approach ================== //
+//! Without inter changing loop
+class Solution {
+public:
+    bool solveUsingTabuOS(vector<int> &nums, int target){
+        int n = nums.size();
+        vector<int> curr(target+1,0);
+        vector<int> next(target+1,0);
+        
+        curr[target] = 1;
+        next[target] = 1;
+
+        // Loop row wise hi chalana hai mujhe
+        for(int index = n-1; index >= 0; index--){
+            for(int currSum = target; currSum >= 0; currSum--){
+                // Recursive call
+                bool include = 0;
+                if(currSum+nums[index] <= target){
+                    include = next[currSum+nums[index]];
+                }
+                bool exclude = next[currSum+0];
+                curr[currSum] = include || exclude;
+            }
+            // Shift Karna Bhool Jata hu
+            next = curr;
+        }        
+        return next[0];
+    }
+
+    bool canPartition(vector<int>& nums) {
+        int totalSum = 0;
+        for(int i=0; i<nums.size(); i++){
+            totalSum += nums[i];
+        }
+        
+        if(totalSum & 1){
+            // Odd can't be partioned
+            return false;
+        }
+
+        int target = totalSum/2;
+        bool ans = solveUsingTabuOS(nums, target);
+        return ans;
+    }
+};
