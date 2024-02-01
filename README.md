@@ -1499,6 +1499,20 @@ CLASS NOTES: 58
 </details>
 
 <details>
+  <summary>WEEK 19 TOPIC: Graphs - Class 02</summary>
+
+```bash
+CLASS NOTES: 59
+	1. Detect cycle in an undirected graph using BFS (GFG)
+	2. Detect cycle in an undirected graph using DFS (GFG)
+	3. Detect cycle in an directed graph using DFS (GFG)
+	4. Detect cycle in an directed graph using BFS (Pending Problem)
+
+```
+
+</details>
+
+<details>
   <summary>WEEK 20 TOPIC: Graphs - Assignments</summary>
 
 ```bash
