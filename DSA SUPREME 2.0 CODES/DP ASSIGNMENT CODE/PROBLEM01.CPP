@@ -32,9 +32,11 @@ public:
     int solveUsingRec(int n){
         // Base case
         if(n == 0){
+            // Perfect Square Ban Chuka Hai
             return 1;
         }
         if(n < 0){
+            // Jav funct(N-PerfectSquare) = -ve
             return 0;
         }
 
