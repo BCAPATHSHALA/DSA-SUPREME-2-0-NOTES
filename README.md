@@ -1428,7 +1428,7 @@ CLASS NOTES: 57
 ```bash
 CLASS ASSIGNMENTS:
 	1. Perfect Squares (Leetcode-279)
-	2. Minimum Cost for Tickets Leetcode
+	2. Minimum Cost for Tickets (Leetcode-983)
 	3. Minimum ASCII Delete Sum for 2 Strings Leetcode
 	4. Longest Palindromic SubString Leetcode
 	5. Distinct Subsequences Leetcode
