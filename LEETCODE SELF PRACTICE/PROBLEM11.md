@@ -74,17 +74,6 @@ Output: 2
 
 - First, I want to use the `all bricks` and if `bricks` are not sufficient then i will use the `ladders`.
 
-### Approach
-
-- Step1: first we will use the all bricks
-- Step2: if bricks are not sufficient then use the ladders
-- Step 3: apply logic to get the least number of unique element
-
-### Complexity
-
-- Time complexity: O(N Log(N))
-- Space complexity: O(N)
-
 ## Solution 1
 
 ```cpp
