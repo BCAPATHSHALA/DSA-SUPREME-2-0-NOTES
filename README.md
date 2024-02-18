@@ -918,6 +918,9 @@ CLASS HOMEWORK: 31
 	13. Sort 0, 1, 2 in linked list (GFG)
 	14. ARTICLE: Quick Sort Algorithm is best for array or linked list?
 	15. ARTICLE: Merge Sort Algorithm is best for array or linked list?
+	16. Double a number represented as a linked list
+	17. Swapping nodes in a linked list
+	18. Remove zero sum consecutive nodes from linked list
 
 ```
 
@@ -1323,6 +1326,19 @@ CLASS NOTES: 50
 	1. Print All Words of Given Prefix String - I
 	2. Print All Words of Given Prefix String - II
 	3. Longest Common Prefix (Leetcode-14)
+
+HOMEWORK NOTES: 50
+	1. Array Subset of Another Array
+	2. Union of Two Linked Lists
+	3. Intersection of Two Linked Lists
+	4. Sum Equals To Sum
+	5. Largest Subarray with 0 Sum
+	6. Largest Subarray of 0’s and 1’s
+	7. Valid Anagram
+	8. Replace Words
+	9. Top K Frequent Words
+	10. Camelcase Matching
+	11. Palindrome Pairs
 
 ```
 
