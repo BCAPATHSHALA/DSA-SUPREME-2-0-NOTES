@@ -11,7 +11,7 @@ An integer `n` is a power of two, if there exists an integer `x` such that` n ==
 
 ## Examples
 
-- Example 1:
+Example 1:
 
 ```bash
 Input: n = 1
@@ -41,8 +41,6 @@ Output: false
 ```
 
 ## Constraints:
-
-Constraints:
 
 1. `-2^31 <= n <= 2^(31) - 1`
 
