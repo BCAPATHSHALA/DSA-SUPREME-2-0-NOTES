@@ -1522,7 +1522,20 @@ CLASS NOTES: 59
 	1. Detect cycle in an undirected graph using BFS (GFG)
 	2. Detect cycle in an undirected graph using DFS (GFG)
 	3. Detect cycle in an directed graph using DFS (GFG)
-	4. Detect cycle in an directed graph using BFS (Pending Problem)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 19 TOPIC: Graphs - Class 03</summary>
+
+```bash
+CLASS NOTES: 60
+	1. Topological Sorting with DFS
+	2. Topological Sorting with BFS
+	3. Detect cycle in a directed graph using BFS
+	4. Shortest path in an undirected graph using BFS
 
 ```
 
