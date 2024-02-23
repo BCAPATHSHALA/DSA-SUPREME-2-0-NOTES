@@ -1542,6 +1542,18 @@ CLASS NOTES: 60
 </details>
 
 <details>
+  <summary>WEEK 19 TOPIC: Graphs - Class 04</summary>
+
+```bash
+CLASS NOTES: 61
+	1. Shortest path in a weighted directed graph using DFS (SSSP Algorithms)
+	2. Shortest path in a weighted undirected graph using Dijkstra Algorithm
+
+```
+
+</details>
+
+<details>
   <summary>WEEK 20 TOPIC: Graphs - Assignments</summary>
 
 ```bash
