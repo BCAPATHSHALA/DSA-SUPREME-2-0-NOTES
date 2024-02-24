@@ -76,7 +76,7 @@ The optimal path with no stops from city 0 to 2 is marked in red and has cost 50
 
 ```cpp
 /*
-Optimal approach: Using Array Only
+Optimal approach: Using Dijkstra Algorithm
 Time Complexity:  O(VEK)
 Space Complexity: O(V + E + VK)
 Author: github.com/BCAPATHSHALA
