@@ -1554,6 +1554,19 @@ CLASS NOTES: 61
 </details>
 
 <details>
+  <summary>WEEK 20 TOPIC: Graphs - Class 05</summary>
+
+```bash
+CLASS NOTES: 62
+	1. Course Schedule (Leetcode-207)
+	2. Course Schedule II (Leetcode-210)
+	3. Path With Minimum Effort (Leetcode-1631)
+
+```
+
+</details>
+
+<details>
   <summary>WEEK 20 TOPIC: Graphs - Assignments</summary>
 
 ```bash
