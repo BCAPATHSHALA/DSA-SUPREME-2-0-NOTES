@@ -1567,6 +1567,20 @@ CLASS NOTES: 62
 </details>
 
 <details>
+  <summary>WEEK 20 TOPIC: Graphs - Class 06</summary>
+
+```bash
+CLASS NOTES: 63
+	1. Number of Provinces (Leetcode-547)
+	2. Number of Islands (Leetcode-200)
+	3. Flood Fill (Leetcode-733)
+	4. Rotting Oranges (Leetcode-994)
+
+```
+
+</details>
+
+<details>
   <summary>WEEK 20 TOPIC: Graphs - Assignments</summary>
 
 ```bash
