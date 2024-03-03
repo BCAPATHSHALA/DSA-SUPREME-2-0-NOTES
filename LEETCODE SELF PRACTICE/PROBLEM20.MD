@@ -1,6 +1,6 @@
 DATE: 03-03-2024
 
-## Problem 19: [ Remove Nth Node From End of List (Leetcode-19) ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+## Problem 20: [ Remove Nth Node From End of List (Leetcode-19) ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 [DOWNLOAD PDF NOTES](https://drive.google.com/drive/u/1/folders/1V1lszXbUO97guTtDgW8AWcIkryRB2uW9)
 
