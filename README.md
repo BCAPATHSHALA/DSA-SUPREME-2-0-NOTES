@@ -1581,6 +1581,21 @@ CLASS NOTES: 63
 </details>
 
 <details>
+  <summary>WEEK 20 TOPIC: Graphs - Class 07</summary>
+
+```bash
+CLASS NOTES: 64
+	1. Dijkstra Algorithm
+	2. Bellman Ford Algorithm
+	3. Floyd Warshall Algorithm
+	4. Kosaraju Algorithm
+	5. Tarjans Algorithm for Bridges (Leetcode-1192)
+
+```
+
+</details>
+
+<details>
   <summary>WEEK 20 TOPIC: Graphs - Assignments</summary>
 
 ```bash
