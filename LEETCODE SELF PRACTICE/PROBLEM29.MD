@@ -36,13 +36,6 @@ Output: [1]
 
 **Follow up:** Recursive solution is trivial, could you do it iteratively?
 
-**Related Topics**:  
-[Array](https://leetcode.com/tag/array/), [Binary Search](https://leetcode.com/tag/binary-search/)
-
-**Similar Questions**:
-
-- [Peak Index in a Mountain Array (Easy)](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-
 ## Solution 1
 
 ```cpp
