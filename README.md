@@ -1612,3 +1612,29 @@ CLASS ASSIGNMENTS:
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 21 TOPIC: Bit Manipulation - Class 01</summary>
+
+```bash
+CLASS NOTES: 65
+	1. Bitwise operators
+	2. Check even or odd number
+	3. Get Ith bit from right side
+	4. Set Ith bit from right side
+	5. Clear Ith bit from right side
+	6. Update Ith bit from right side
+	7. Single number (Leetcode-136)
+	8. Clear n bits from last
+	9. Check power of two
+	10. Count set bits
+	11. Clear bits in range
+	12. Count total jump from source to destination
+	13. Subsequence of a string "Include & Exclude"
+	14. Fast Exponentiation "a^b"
+	15. Binary to decimal
+	16. Decimal to binary
+
+```
+
+</details>
