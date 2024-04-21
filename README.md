@@ -1629,11 +1629,16 @@ CLASS NOTES: 65
 	9. Check power of two
 	10. Count set bits
 	11. Clear bits in range
-	12. Count total jump from source to destination
-	13. Subsequence of a string "Include & Exclude"
-	14. Fast Exponentiation "a^b"
-	15. Binary to decimal
-	16. Decimal to binary
+	12. Subsequence of a string "Include & Exclude" (Leetcode-78)
+	13. Pow(x, n) (Leetcode-50) 
+			- Naive Approach
+			- Fast Exponentiation
+			- Binary Exponentiation
+	14. Single number II (Leetcode-137)
+	15. Single number III (Leetcode-260)
+	16. Binary to decimal
+	17. Decimal to binary
+	18. Count total jump from source to destination
 
 ```
 
