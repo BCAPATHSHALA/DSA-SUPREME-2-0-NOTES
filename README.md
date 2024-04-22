@@ -1614,7 +1614,7 @@ CLASS ASSIGNMENTS:
 </details>
 
 <details>
-  <summary>WEEK 21 TOPIC: Bit Manipulation - Class 01</summary>
+  <summary>WEEK 21 TOPIC: Bit Manipulation</summary>
 
 ```bash
 CLASS NOTES: 65
@@ -1630,7 +1630,7 @@ CLASS NOTES: 65
 	10. Count set bits
 	11. Clear bits in range
 	12. Subsequence of a string "Include & Exclude" (Leetcode-78)
-	13. Pow(x, n) (Leetcode-50) 
+	13. Pow(x, n) (Leetcode-50)
 			- Naive Approach
 			- Fast Exponentiation
 			- Binary Exponentiation
@@ -1639,6 +1639,28 @@ CLASS NOTES: 65
 	16. Binary to decimal
 	17. Decimal to binary
 	18. Count total jump from source to destination
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 21 TOPIC: Sliding Window Technique</summary>
+
+```bash
+CLASS NOTES: 66
+	1. Sliding window varients
+	2. Fixed size window
+		- Sliding Window Maximum (Leetcode-239)
+	3. Variable size window
+		- Minimum Size Subarray Sum (Leetcode-209)
+		- Binary Subarrays With Sum (Leetcode-930)
+	4. Two pointer approach
+		- Two Sum (Leetcode-1)
+	5. Optimization approach
+		- Minimum Window Substring (Leetcode-76)
+	6. Master sliding window through this resource
+	https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring
 
 ```
 
