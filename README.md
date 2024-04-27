@@ -1652,6 +1652,7 @@ CLASS NOTES: 66
 	1. Sliding window varients
 	2. Fixed size window
 		- Sliding Window Maximum (Leetcode-239)
+		- Max Sum Subarray of size K (GFG)
 	3. Variable size window
 		- Minimum Size Subarray Sum (Leetcode-209)
 		- Binary Subarrays With Sum (Leetcode-930)
