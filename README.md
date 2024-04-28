@@ -1661,7 +1661,8 @@ CLASS NOTES: 66
 	5. Optimization approach
 		- Minimum Window Substring (Leetcode-76)
 	6. Master sliding window through this resource
-	https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring
+	Resource 1: https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring
+	Resource 2: https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide
 
 ```
 

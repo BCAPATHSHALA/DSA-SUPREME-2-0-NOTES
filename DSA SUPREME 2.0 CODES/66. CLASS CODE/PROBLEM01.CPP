@@ -24,6 +24,14 @@ Window position                Max
 Example 2:
 Input: nums = [1], k = 1
 Output: [1]
+
+Constraints:
+1. 1 <= nums.length <= 10^5
+2. -10^4 <= nums[i] <= 10^4
+3. 1 <= k <= nums.length
+
+Time Complexity: O(N)
+Space Complexity: O(1)
 */
 
 class Solution {
