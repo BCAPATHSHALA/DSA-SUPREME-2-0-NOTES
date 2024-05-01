@@ -1649,7 +1649,7 @@ CLASS NOTES: 65
 
 ```bash
 CLASS NOTES: 66
-	1. Sliding window varients
+	1. Sliding window variants
 	2. Fixed size window
 		- Sliding Window Maximum (Leetcode-239)
 		- Max Sum Subarray of size K (GFG)
