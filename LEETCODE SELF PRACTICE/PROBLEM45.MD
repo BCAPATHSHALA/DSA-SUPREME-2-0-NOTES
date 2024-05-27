@@ -67,18 +67,9 @@ Output: 4
 1. `1 <= nums.length <= 100`
 2. `0 <= nums[i] <= 1000`
 
-**Companies**:
-[Amazon](https://leetcode.com/company/amazon), [Facebook](https://leetcode.com/company/facebook), [Apple](https://leetcode.com/company/apple)
-
 **Related Topics**:  
-[Array](https://leetcode.com/tag/array/), [Backtracking](https://leetcode.com/tag/backtracking/), [Bit Manipulation](https://leetcode.com/tag/bit-manipulation/)
+[Array](https://leetcode.com/tag/array/)
 
-**Similar Questions**:
-* [Subsets II (Medium)](https://leetcode.com/problems/subsets-ii/)
-* [Generalized Abbreviation (Medium)](https://leetcode.com/problems/generalized-abbreviation/)
-* [Letter Case Permutation (Medium)](https://leetcode.com/problems/letter-case-permutation/)
-* [Find Array Given Subset Sums (Hard)](https://leetcode.com/problems/find-array-given-subset-sums/)
-* [Count Number of Maximum Bitwise-OR Subsets (Medium)](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)
 
 ## Solution 1
 
