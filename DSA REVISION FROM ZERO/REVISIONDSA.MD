@@ -10,3 +10,13 @@
 - _PROBLEM 8:_ Sort 0's and 1's
 - _PROBLEM 9:_ Shift array's element by one (right to left)
 - _PROBLEM 10:_ Shift array's element by one (left to right)
+
+# DAY: 2 DATE: 05/07/2024
+
+- _PROBLEM 1:_ Print 2D Array row and column wise
+- _PROBLEM 2:_ Linear search in 2D Array
+- _PROBLEM 3:_ Find min and max in 2D Array
+- _PROBLEM 4:_ Print row and col wise sum of 2D Array
+- _PROBLEM 5:_ Print sum of principle and secondary diagonal of a matrix
+- _PROBLEM 6:_ Transpose of a matrix
+- _PROBLEM 7:_ Moving All Negative Number to the Left Side of an Array
