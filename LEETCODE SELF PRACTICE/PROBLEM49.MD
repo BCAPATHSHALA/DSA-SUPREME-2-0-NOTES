@@ -24,4 +24,4 @@ public:
 };
 ```
 
-![Leetcode-2914]()
+![Leetcode-2914](https://raw.githubusercontent.com/BCAPATHSHALA/DSA-SUPREME-2-0-NOTES/refs/heads/master/LEETCODE%20SELF%20PRACTICE/IMAGES%20DRY%20RUN/49.%20Leetcode%20-%202914.png)
