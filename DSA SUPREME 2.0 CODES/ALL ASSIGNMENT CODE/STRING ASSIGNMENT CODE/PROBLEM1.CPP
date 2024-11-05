@@ -1,70 +1,42 @@
-// 1. Integer to Roman (Leetcode-12)
-
-/*
-Problem Statement:
-Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
-
-Symbol       Value
-I             1
-V             5
-X             10
-L             50
-C             100
-D             500
-M             1000
-
-For example, 2 is written as II in Roman numeral, just two one's added together. 12 is written as XII, which is simply X + II. The number 27 is written as XXVII, which is XX + V + II.
-
-Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used:
-
-I can be placed before V (5) and X (10) to make 4 and 9. 
-X can be placed before L (50) and C (100) to make 40 and 90. 
-C can be placed before D (500) and M (1000) to make 400 and 900.
-Given an integer, convert it to a roman numeral.
-
-Example 1:
-Input: num = 3
-Output: "III"
-Explanation: 3 is represented as 3 ones.
-
-Example 2:
-Input: num = 58
-Output: "LVIII"
-Explanation: L = 50, V = 5, III = 3.
-
-Example 3:
-Input: num = 1994
-Output: "MCMXCIV"
-Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
- 
-
-Constraints:
-1. 1 <= num <= 3999
-*/
-
+// 1. Valid Anagram (Leetcode-245)
 class Solution {
 public:
-    string intToRoman(int num) {
-       string romanSymbols[] = {"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
-       int romanValues[] = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
+    bool isAnagram(string s, string t) {
 
-       string romanAns = "";
+        int freqTable[256] = {0};
 
-       for(int i = 0; i < 13; i++){
-            // Rule to making roman value from integer is: traversal from Largest ----> Smallest
-            while(num >= romanValues[i]){
-                romanAns += romanSymbols[i];
-                // Udate the num
-                num = num - romanValues[i];
+        // Updating freqTable by 's' string
+        for(int i=0; i<s.size(); i++){
+            freqTable[s[i]]++;
+        }
+
+        // Again, Updating freqTable by 't' string
+        for(int i=0; i<t.size(); i++){
+            freqTable[t[i]]--;
+        }
+
+        // Comparing each elements of freqTable are zero or not
+        for(int i=0; i<256; i++){
+            if(freqTable[i] != 0){
+                // Agar ek abhi element not equal to zero hai to invalid anagram hai
+                return false;
             }
-       }
-       return romanAns;
+        }
+        // Agar all elements equal to zero hai to valid anagram hai
+        return true;
     }
 };
 
 /*
-Time complexity: O(1)
-Space complexity: O(1)
+Time Complexity: O(N+M), where N is length of 's' and M is length of 't'
+Space Complexity: O(1), no extra space used
 
-The reason for this is that the for loop has a fixed number of iterations.
+Example 1:
+Input: s = "anagram", t = "nagaram"
+Output: true
+
+Example 2:
+Input: s = "rat", t = "car"
+Output: false
 */
+
