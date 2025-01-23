@@ -1,4 +1,4 @@
-![10xTech Infinity](https://raw.githubusercontent.com/BCAPATHSHALA/DSA-SUPREME-2-0-NOTES/refs/heads/master/LEETCODE%20SELF%20PRACTICE/IMAGES%20DRY%20RUN/github.png)
+![10xTech Infinity](./DSA-COVER.png)
 
 # Download Epic Notes
 
