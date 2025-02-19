@@ -12,6 +12,11 @@ This course belongs to [The code help](https://www.thecodehelp.in) and follows b
 
 In this repository, you will get each and every class's notes in the form of a PDF and program with an explanation. Also, get the notes on the discord channel [10xTech Infinity](https://discord.gg/naQUPVWvSs) as well as subscribe to the youtube channels of [10xTech Infinity](https://www.youtube.com/@10xtechinfinity) and [BCA Pathshala](https://www.youtube.com/@bcapathshala) to watch our doubts and much more.
 
+## Upskilling in Low Level Design and Problem Solving
+![10xTech Infinity](https://raw.githubusercontent.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/refs/heads/main/LLD-BOOK-COVER.png)
+
+## Visite: [LLD-SUPRA-1-0-NOTES](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES)
+
 ## COURSE STRUCTURE
 
 <details>
