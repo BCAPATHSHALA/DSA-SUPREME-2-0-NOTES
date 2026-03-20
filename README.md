@@ -1,23 +1,43 @@
 ![10xTech Infinity](./DSA-COVER.png)
 
-# Download Epic Notes
+# Grab Your DSA Notes
+[![GitHub stars](https://img.shields.io/github/stars/BCAPATHSHALA/DSA-SUPREME-2-0-NOTES?style=for-the-badge)](https://github.com/BCAPATHSHALA/DSA-SUPREME-2-0-NOTES/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/BCAPATHSHALA/DSA-SUPREME-2-0-NOTES?style=for-the-badge)](https://github.com/BCAPATHSHALA/DSA-SUPREME-2-0-NOTES/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/BCAPATHSHALA/DSA-SUPREME-2-0-NOTES?style=for-the-badge)](https://github.com/BCAPATHSHALA/DSA-SUPREME-2-0-NOTES/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/BCAPATHSHALA/DSA-SUPREME-2-0-NOTES?style=for-the-badge)](https://github.com/BCAPATHSHALA/DSA-SUPREME-2-0-NOTES/commits/main)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-orange?style=for-the-badge)](https://buymeacoffee.com/manojofficialmj)
 
-### [📩Download Awesome Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
+### Start Learning Now
 
-### [💟Support Us](https://razorpay.me/@websyro)
+[![Download Notes](https://img.shields.io/badge/Download-DSA%20Notes-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
 
-## **Course mentors are Love Babbar & Lakshay Kumar Bhaiya**
+## Hi, I'm Manoj Kumar
 
-This course belongs to [The code help](https://www.thecodehelp.in) and follows both our favorite mentors [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/) & [Lakshay Kumar](https://www.linkedin.com/in/lakshayk12/).
+Full Stack & Generative AI Developer building SaaS products, AI tools, and scalable web apps.
 
-### PDF NOTES AND CPP PROGRAMS
+## Connect with Me
 
-In this repository, you will get each and every class's notes in the form of a PDF and program with an explanation. Also, get the notes on the discord channel [10xTech Infinity](https://discord.gg/naQUPVWvSs) as well as subscribe to the youtube channels of [BCA Pathshala](https://www.youtube.com/@bcapathshala) to watch our doubts and much more.
+- LinkedIn: [linkedin.com/in/manojofficialmj](https://www.linkedin.com/in/manojofficialmj)
+- Twitter (X): [x.com/manojofficialmj](https://x.com/manojofficialmj)
 
-## Upskilling in Low Level Design and Problem Solving
-![10xTech Infinity](https://raw.githubusercontent.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES/refs/heads/main/LLD-BOOK-COVER.png)
 
-## Visite: [LLD-SUPRA-1-0-NOTES](https://github.com/BCAPATHSHALA/LLD-SUPRA-1-0-NOTES)
+## Support My Work
+
+I'm working hard to provide free, high-quality DSA notes, code, and resources for everyone.
+
+If this repository helped you in any way, you can support my work:
+
+### [Buy Me a Coffee](https://buymeacoffee.com/manojofficialmj)
+
+Your support will help me:
+
+- Create more structured content
+- Improve explanations and examples
+- Keep everything free for the community
+
+Every coffee fuels more content.
+
+Thank you for being part of this journey!
 
 ## COURSE STRUCTURE
 
@@ -1674,3 +1694,17 @@ CLASS NOTES: 66
 ```
 
 </details>
+
+
+
+
+
+
+## Keep Pushing
+
+Code daily. Stay curious. Build boldly.
+
+If this repo helped you, give it a star and share it with a friend.
+
+See you at the top,
+**Manoj Kumar**
